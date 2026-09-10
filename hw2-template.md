@@ -1,3 +1,7 @@
+# **Homework 2: Data Discovery, Problem Framing & Visual Critique**
+
+**Student Name:** Batman Whiteside 
+**Date:** 09/10/26
 
 
 ## **Part 1: Dataset Selection**
@@ -8,7 +12,7 @@
 
 * **Overview:** This dataset contains 70 waking-day recordings from five 14-day trial pairs. Each recording is a reverse-chronological activity log with 4,010 timed activity rows plus 70 lights-out markers; the analysis derives 70 daily category-total rows and 65 overnight sleep intervals. The categorical variables are Productive (P), Routine (R), Eat (E), Social (S), Workout (W), Fun (F), and God/ministry (GOD); continuous variables are activity durations, category totals, total recorded activity time, and sleep minutes; temporal variables include date, weekday, waking-day order, and within-day timestamps. There is no spatial variable.
 
-* **Interest Statement:** This dataset comes from a personal experiment recording daily activities from waking time to lights out. It supports personal discovery of how time is actually allocated, rather than comparing a planned schedule with reality only at the level of daily averages. Treating waking hours as the unit of analysis also preserves activities that cross midnight without falsely assigning them to a new calendar day.
+* **Interest Statement:** This dataset actually comes from my personal experiment recording daily activities from waking time to lights out. It supports personal discovery of how time is actually allocated, rather than comparing a planned schedule with reality only at the level of daily averages. Treating waking hours as the unit of analysis also preserves activities that cross midnight without falsely assigning them to a new calendar day.
 
 ## **Part 2: Problem Framing & Analytic Tasks**
 
@@ -28,7 +32,7 @@ These tasks correspond to the heatmap and daily-composition chart for Task 1, th
 
 ### **1\. Waking-Day Composition Heatmap**
 
-![Waking-day composition heatmap](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/01_composition_heatmap.svg)
+[![Waking-day composition heatmap](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/01_composition_heatmap.svg)](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/01_composition_heatmap.svg)
 
 * **Target Task:** Task 1, composition and trend.
 
@@ -36,7 +40,7 @@ These tasks correspond to the heatmap and daily-composition chart for Task 1, th
 
 ### **2\. All-Data Category Totals by Weekday**
 
-![Category totals by weekday](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/10_weekday_stacked_bar.svg)
+[![Category totals by weekday](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/10_weekday_stacked_bar.svg)](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/10_weekday_stacked_bar.svg)
 
 * **Target Task:** Task 2, categorical comparison.
 
@@ -44,7 +48,7 @@ These tasks correspond to the heatmap and daily-composition chart for Task 1, th
 
 ### **3\. Flawed Visualization Example: Residual Category Correlation Matrix**
 
-![Flawed residual correlation matrix](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/13_residual_category_correlation.svg)
+[![Flawed residual correlation matrix](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/13_residual_category_correlation.svg)](https://raw.githubusercontent.com/batmankatman/pythonics-prod-program-ai4/main/analysis_output/13_residual_category_correlation.svg)
 
 * **Target Task:** Task 3, adjusted category relationships.
 
