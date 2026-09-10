@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<style>text{font-family:system-ui,-apple-system,sans-serif;fill:#263238} .muted{fill:#667085;font-size:12px} .grid{stroke:#dfe4ea;stroke-width:1} .axis{stroke:#334155;stroke-width:1.2}</style>
+<rect width="100%" height="100%" fill="#fbfaf7"/><text x="48" y="36" font-size="21" font-weight="700">All-data category totals by weekday</text>
+<line x1="90" y1="480.0" x2="920" y2="480.0" class="grid"/><text x="82" y="484.0" text-anchor="end" class="muted">0h</text>
+<line x1="90" y1="431.9" x2="920" y2="431.9" class="grid"/><text x="82" y="435.9" text-anchor="end" class="muted">20h</text>
+<line x1="90" y1="383.9" x2="920" y2="383.9" class="grid"/><text x="82" y="387.9" text-anchor="end" class="muted">40h</text>
+<line x1="90" y1="335.8" x2="920" y2="335.8" class="grid"/><text x="82" y="339.8" text-anchor="end" class="muted">60h</text>
+<line x1="90" y1="287.7" x2="920" y2="287.7" class="grid"/><text x="82" y="291.7" text-anchor="end" class="muted">80h</text>
+<line x1="90" y1="239.6" x2="920" y2="239.6" class="grid"/><text x="82" y="243.6" text-anchor="end" class="muted">100h</text>
+<line x1="90" y1="191.6" x2="920" y2="191.6" class="grid"/><text x="82" y="195.6" text-anchor="end" class="muted">120h</text>
+<line x1="90" y1="143.5" x2="920" y2="143.5" class="grid"/><text x="82" y="147.5" text-anchor="end" class="muted">140h</text>
+<line x1="90" y1="95.4" x2="920" y2="95.4" class="grid"/><text x="82" y="99.4" text-anchor="end" class="muted">160h</text>
+<line x1="90" y1="47.4" x2="920" y2="47.4" class="grid"/><text x="82" y="51.4" text-anchor="end" class="muted">180h</text>
+<rect x="109.0" y="300.3" width="80.6" height="179.7" fill="#1b6ca8"><title>M P: 4485 minutes</title></rect>
+<text x="149.3" y="394.2" text-anchor="middle" font-size="10" fill="#263238">74.8h</text>
+<rect x="109.0" y="218.0" width="80.6" height="82.3" fill="#4b0082"><title>M R: 2055 minutes</title></rect>
+<text x="149.3" y="263.2" text-anchor="middle" font-size="10" fill="#263238">34.2h</text>
+<rect x="109.0" y="189.8" width="80.6" height="28.2" fill="#e07a2d"><title>M E: 705 minutes</title></rect>
+<text x="149.3" y="207.9" text-anchor="middle" font-size="10" fill="#263238">11.8h</text>
+<rect x="109.0" y="149.3" width="80.6" height="40.5" fill="#8e5aa7"><title>M S: 1010 minutes</title></rect>
+<text x="149.3" y="173.5" text-anchor="middle" font-size="10" fill="#263238">16.8h</text>
+<rect x="109.0" y="134.7" width="80.6" height="14.6" fill="#2a9d8f"><title>M W: 365 minutes</title></rect>
+<rect x="109.0" y="90.2" width="80.6" height="44.5" fill="#e9c46a"><title>M F: 1110 minutes</title></rect>
+<text x="149.3" y="116.5" text-anchor="middle" font-size="10" fill="#263238">18.5h</text>
+<rect x="109.0" y="75.0" width="80.6" height="15.2" fill="#d1495b"><title>M GOD: 380 minutes</title></rect>
+<text x="149.3" y="502" text-anchor="middle" class="muted">M</text>
+<rect x="227.5" y="359.2" width="80.6" height="120.8" fill="#1b6ca8"><title>T P: 3015 minutes</title></rect>
+<text x="267.9" y="423.6" text-anchor="middle" font-size="10" fill="#263238">50.2h</text>
+<rect x="227.5" y="265.5" width="80.6" height="93.7" fill="#4b0082"><title>T R: 2340 minutes</title></rect>
+<text x="267.9" y="316.4" text-anchor="middle" font-size="10" fill="#263238">39.0h</text>
+<rect x="227.5" y="230.4" width="80.6" height="35.1" fill="#e07a2d"><title>T E: 875 minutes</title></rect>
+<text x="267.9" y="252.0" text-anchor="middle" font-size="10" fill="#263238">14.6h</text>
+<rect x="227.5" y="165.1" width="80.6" height="65.3" fill="#8e5aa7"><title>T S: 1630 minutes</title></rect>
+<text x="267.9" y="201.8" text-anchor="middle" font-size="10" fill="#263238">27.2h</text>
+<rect x="227.5" y="149.3" width="80.6" height="15.8" fill="#2a9d8f"><title>T W: 395 minutes</title></rect>
+<rect x="227.5" y="119.1" width="80.6" height="30.2" fill="#e9c46a"><title>T F: 755 minutes</title></rect>
+<text x="267.9" y="138.2" text-anchor="middle" font-size="10" fill="#263238">12.6h</text>
+<rect x="227.5" y="99.0" width="80.6" height="20.0" fill="#d1495b"><title>T GOD: 500 minutes</title></rect>
+<text x="267.9" y="113.1" text-anchor="middle" font-size="10" fill="#263238">8.3h</text>
+<text x="267.9" y="502" text-anchor="middle" class="muted">T</text>
+<rect x="346.1" y="315.4" width="80.6" height="164.6" fill="#1b6ca8"><title>W P: 4110 minutes</title></rect>
+<text x="386.4" y="401.7" text-anchor="middle" font-size="10" fill="#263238">68.5h</text>
+<rect x="346.1" y="239.0" width="80.6" height="76.3" fill="#4b0082"><title>W R: 1905 minutes</title></rect>
+<text x="386.4" y="281.2" text-anchor="middle" font-size="10" fill="#263238">31.8h</text>
+<rect x="346.1" y="212.6" width="80.6" height="26.4" fill="#e07a2d"><title>W E: 660 minutes</title></rect>
+<text x="386.4" y="229.8" text-anchor="middle" font-size="10" fill="#263238">11.0h</text>
+<rect x="346.1" y="171.7" width="80.6" height="40.9" fill="#8e5aa7"><title>W S: 1020 minutes</title></rect>
+<text x="386.4" y="196.2" text-anchor="middle" font-size="10" fill="#263238">17.0h</text>
+<rect x="346.1" y="163.9" width="80.6" height="7.8" fill="#2a9d8f"><title>W W: 195 minutes</title></rect>
+<rect x="346.1" y="130.3" width="80.6" height="33.6" fill="#e9c46a"><title>W F: 840 minutes</title></rect>
+<text x="386.4" y="151.1" text-anchor="middle" font-size="10" fill="#263238">14.0h</text>
+<rect x="346.1" y="96.8" width="80.6" height="33.4" fill="#d1495b"><title>W GOD: 835 minutes</title></rect>
+<text x="386.4" y="117.6" text-anchor="middle" font-size="10" fill="#263238">13.9h</text>
+<text x="386.4" y="502" text-anchor="middle" class="muted">W</text>
+<rect x="464.7" y="356.4" width="80.6" height="123.6" fill="#1b6ca8"><title>Th P: 3085 minutes</title></rect>
+<text x="505.0" y="422.2" text-anchor="middle" font-size="10" fill="#263238">51.4h</text>
+<rect x="464.7" y="268.7" width="80.6" height="87.7" fill="#4b0082"><title>Th R: 2190 minutes</title></rect>
+<text x="505.0" y="316.6" text-anchor="middle" font-size="10" fill="#263238">36.5h</text>
+<rect x="464.7" y="244.1" width="80.6" height="24.6" fill="#e07a2d"><title>Th E: 615 minutes</title></rect>
+<text x="505.0" y="260.4" text-anchor="middle" font-size="10" fill="#263238">10.2h</text>
+<rect x="464.7" y="176.6" width="80.6" height="67.5" fill="#8e5aa7"><title>Th S: 1685 minutes</title></rect>
+<text x="505.0" y="214.3" text-anchor="middle" font-size="10" fill="#263238">28.1h</text>
+<rect x="464.7" y="160.5" width="80.6" height="16.0" fill="#2a9d8f"><title>Th W: 400 minutes</title></rect>
+<rect x="464.7" y="133.3" width="80.6" height="27.2" fill="#e9c46a"><title>Th F: 680 minutes</title></rect>
+<text x="505.0" y="150.9" text-anchor="middle" font-size="10" fill="#263238">11.3h</text>
+<rect x="464.7" y="94.8" width="80.6" height="38.5" fill="#d1495b"><title>Th GOD: 960 minutes</title></rect>
+<text x="505.0" y="118.1" text-anchor="middle" font-size="10" fill="#263238">16.0h</text>
+<text x="505.0" y="502" text-anchor="middle" class="muted">Th</text>
+<rect x="583.3" y="364.0" width="80.6" height="116.0" fill="#1b6ca8"><title>F P: 2895 minutes</title></rect>
+<text x="623.6" y="426.0" text-anchor="middle" font-size="10" fill="#263238">48.2h</text>
+<rect x="583.3" y="273.5" width="80.6" height="90.5" fill="#4b0082"><title>F R: 2260 minutes</title></rect>
+<text x="623.6" y="322.8" text-anchor="middle" font-size="10" fill="#263238">37.7h</text>
+<rect x="583.3" y="244.9" width="80.6" height="28.6" fill="#e07a2d"><title>F E: 715 minutes</title></rect>
+<text x="623.6" y="263.2" text-anchor="middle" font-size="10" fill="#263238">11.9h</text>
+<rect x="583.3" y="205.4" width="80.6" height="39.5" fill="#8e5aa7"><title>F S: 985 minutes</title></rect>
+<text x="623.6" y="229.1" text-anchor="middle" font-size="10" fill="#263238">16.4h</text>
+<rect x="583.3" y="188.0" width="80.6" height="17.4" fill="#2a9d8f"><title>F W: 435 minutes</title></rect>
+<rect x="583.3" y="133.3" width="80.6" height="54.7" fill="#e9c46a"><title>F F: 1365 minutes</title></rect>
+<text x="623.6" y="164.6" text-anchor="middle" font-size="10" fill="#263238">22.8h</text>
+<rect x="583.3" y="90.0" width="80.6" height="43.3" fill="#d1495b"><title>F GOD: 1080 minutes</title></rect>
+<text x="623.6" y="115.7" text-anchor="middle" font-size="10" fill="#263238">18.0h</text>
+<text x="623.6" y="502" text-anchor="middle" class="muted">F</text>
+<rect x="701.8" y="396.9" width="80.6" height="83.1" fill="#1b6ca8"><title>Sa P: 2075 minutes</title></rect>
+<text x="742.1" y="442.4" text-anchor="middle" font-size="10" fill="#263238">34.6h</text>
+<rect x="701.8" y="310.7" width="80.6" height="86.1" fill="#4b0082"><title>Sa R: 2150 minutes</title></rect>
+<text x="742.1" y="357.8" text-anchor="middle" font-size="10" fill="#263238">35.8h</text>
+<rect x="701.8" y="270.3" width="80.6" height="40.5" fill="#e07a2d"><title>Sa E: 1010 minutes</title></rect>
+<text x="742.1" y="294.5" text-anchor="middle" font-size="10" fill="#263238">16.8h</text>
+<rect x="701.8" y="229.0" width="80.6" height="41.3" fill="#8e5aa7"><title>Sa S: 1030 minutes</title></rect>
+<text x="742.1" y="253.7" text-anchor="middle" font-size="10" fill="#263238">17.2h</text>
+<rect x="701.8" y="208.4" width="80.6" height="20.6" fill="#2a9d8f"><title>Sa W: 515 minutes</title></rect>
+<text x="742.1" y="222.7" text-anchor="middle" font-size="10" fill="#263238">8.6h</text>
+<rect x="701.8" y="129.5" width="80.6" height="78.9" fill="#e9c46a"><title>Sa F: 1970 minutes</title></rect>
+<text x="742.1" y="172.9" text-anchor="middle" font-size="10" fill="#263238">32.8h</text>
+<rect x="701.8" y="103.2" width="80.6" height="26.2" fill="#d1495b"><title>Sa GOD: 655 minutes</title></rect>
+<text x="742.1" y="120.4" text-anchor="middle" font-size="10" fill="#263238">10.9h</text>
+<text x="742.1" y="502" text-anchor="middle" class="muted">Sa</text>
+<rect x="820.4" y="389.7" width="80.6" height="90.3" fill="#1b6ca8"><title>Su P: 2255 minutes</title></rect>
+<text x="860.7" y="438.8" text-anchor="middle" font-size="10" fill="#263238">37.6h</text>
+<rect x="820.4" y="312.4" width="80.6" height="77.3" fill="#4b0082"><title>Su R: 1930 minutes</title></rect>
+<text x="860.7" y="355.0" text-anchor="middle" font-size="10" fill="#263238">32.2h</text>
+<rect x="820.4" y="281.5" width="80.6" height="30.8" fill="#e07a2d"><title>Su E: 770 minutes</title></rect>
+<text x="860.7" y="300.9" text-anchor="middle" font-size="10" fill="#263238">12.8h</text>
+<rect x="820.4" y="213.6" width="80.6" height="67.9" fill="#8e5aa7"><title>Su S: 1695 minutes</title></rect>
+<text x="860.7" y="251.6" text-anchor="middle" font-size="10" fill="#263238">28.2h</text>
+<rect x="820.4" y="203.8" width="80.6" height="9.8" fill="#2a9d8f"><title>Su W: 245 minutes</title></rect>
+<rect x="820.4" y="167.5" width="80.6" height="36.3" fill="#e9c46a"><title>Su F: 905 minutes</title></rect>
+<text x="860.7" y="189.7" text-anchor="middle" font-size="10" fill="#263238">15.1h</text>
+<rect x="820.4" y="88.6" width="80.6" height="78.9" fill="#d1495b"><title>Su GOD: 1970 minutes</title></rect>
+<text x="860.7" y="132.1" text-anchor="middle" font-size="10" fill="#263238">32.8h</text>
+<text x="860.7" y="502" text-anchor="middle" class="muted">Su</text>
+<rect x="105" y="45" width="10" height="10" fill="#1b6ca8"/><text x="121" y="54" class="muted">P</text>
+<rect x="225" y="45" width="10" height="10" fill="#4b0082"/><text x="241" y="54" class="muted">R</text>
+<rect x="345" y="45" width="10" height="10" fill="#e07a2d"/><text x="361" y="54" class="muted">E</text>
+<rect x="465" y="45" width="10" height="10" fill="#8e5aa7"/><text x="481" y="54" class="muted">S</text>
+<rect x="585" y="45" width="10" height="10" fill="#2a9d8f"/><text x="601" y="54" class="muted">W</text>
+<rect x="705" y="45" width="10" height="10" fill="#e9c46a"/><text x="721" y="54" class="muted">F</text>
+<rect x="825" y="45" width="10" height="10" fill="#d1495b"/><text x="841" y="54" class="muted">GOD</text>
+<line x1="90" y1="480" x2="920" y2="480" class="axis"/><line x1="90" y1="75" x2="90" y2="480" class="axis"/>
+</svg>
