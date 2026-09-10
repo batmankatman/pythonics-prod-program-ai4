@@ -1,0 +1,19 @@
+Project Framework:
+P = Productive (research, school, work, or notes/day organization (optionally + portfolio projects))
+R = Routine (bathroom, driving, walking)
+E = Eat (prep, eat, and clean-up (b/c I do all at same time))
+S = Social (in-person or messaging : comm signifies msging)
+W = Workout (or stretch/exercise)
+F = Fun (Youtube, music, dawdling)
+GOD = God (Time with God or ministry)
+
+Program Explanation:
+- [ ] Every header for a day begins with a M()M/(D)D/YY format, followed by a space for a string (only M, T, W, Th, F, Sa, and Su) for the day of the week, and then followed a space for a time range in military format (e.g. 0700-2300) as the duration of waking hours (for which you will later find the difference between the start of the next day’s waking hour and the end of the current day’s sleeping hour to find time slept). Under each day header lies:
+    - [ ] Three columns (separated by spaces) with the first following the military time format without a colon (e.g., “2100”), the second column containing only one of the following categorical string literals: F, E, S, R, W, P, GOD, and the third row a short description
+        - [ ] The meaning of each category are: P = Productive, R = Routine, E = Eat, S = Social, W = Workout, F = Fun, GOD = God
+- [ ] Total time for a certain activity is the difference between that certain activity’s timestamp subtracted from the earlier timestamp adjacent.
+    - [ ] Note that the last activity of each day (adjacently below the day header, i.e., the activity “lo” standing for “lights out” from the category “LO”), marks the end of activities that day and does not count as an activity itself (hence, there is no activity after and you cannot calculate its activity time).
+        - [ ] Note also that some days will run past the time 0000, but that does not mean we have entered the next day because the days are tracked by waking hours despite the time literally entering the first hour next actual day—we are counting days by their waking hours only.
+        - [ ] Furthermore, it is crucial you understand that a day’s activities start with the bottom line as the first activity of the day, the waking hour, and ending with activities’ end marker, “lo” at the end of the day (right below the day’s header).
+            - [ ] Thus, an activity’s time span should be calculated by the difference between the start of the activity (the timestamp in the same line as the activity) and the timestamp of the activity above it (which it the start of the next activity, which should always begin at a later time than its previous activity). For example, “1005 P notes” listed below “1015 S dan” means that “notes” lasted for 10 minutes since that’s the difference between the start of the two activities.
+- [ ] You will notice there are 4 pairs of two weeks recordings. And that in each of those two weeks there are only 13 nights between the 14 days, so note this when calculating sleep between the day headers.

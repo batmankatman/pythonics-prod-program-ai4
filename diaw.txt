@@ -1,0 +1,4221 @@
+10/14/25 T 0500-2310
+2305 LO lo
+2300 R ready
+2245 P school
+2240 F read
+2230 R ready
+2225 R shower
+2220 W workout
+2215 R clean
+2210 R ready
+2145 E eat
+2135 R drive
+2125 R walk
+2045 GOD ignite
+2035 R walk
+2030 P notes
+2020 P school
+2000 S CAIR
+1945 P hw ITCS 5122
+1935 P school
+1930 R br
+1925 S CAIR
+1920 P hw ITCS 5122
+1915 P notes
+1855 R poop
+1845 R clean
+1820 S CAIR
+1800 R walk
+1755 P notes
+1735 P research
+1730 F nap
+1725 R walk
+1655 P research
+1650 S comm
+1630 R walk
+1620 E eat
+1550 S CAIR
+1535 R walk
+1515 E eat
+1500 GOD ministry
+1405 S UHP
+1355 R walk
+1350 R br
+1340 R poop
+1320 P research
+1315 F CAIR
+1310 S CAIR
+1250 P school
+1210 P research
+1145 S brian
+1140 S kento
+1130 P notes
+1110 R poop
+1100 P research
+1055 P school
+1045 S comm
+0955 P research
+0950 F nap
+0940 S CAIR
+0925 P research
+0910 F nap
+0905 P research
+0900 E eat
+0855 F music
+0850 S kento
+0845 P research
+0840 R clean
+0835 F music
+0825 P research
+0820 S comm
+0815 R br
+0800 R walk
+0730 R drive
+0720 F va
+0650 R drive
+0640 R walk
+0600 P research
+0555 F think
+0550 F dawdle
+0540 F language
+0530 P research
+0525 F article
+0520 E eat
+0510 F think
+0505 P notes
+0500 R br
+
+10/13/25 M 0725-0120
+0115 LO lo
+0110 R br
+0100 P research
+0055 F dawdle
+0050 R ready
+0040 P research
+0030 P school
+0020 P notes
+0015 F dawdle
+0010 P notes
+0005 F amazon
+2350 F yt
+2325 P research
+2320 P notes
+2315 F amazon
+2310 E eat
+2305 F va
+2300 F think
+2255 R ready
+2245 F va
+2240 W workout
+2220 F aliexpress
+2210 F article
+2200 R shop
+2100 F aliexpress
+2020 F locks
+2015 P notes
+2005 F va
+2000 P school
+1950 P research
+1945 P notes
+1930 E eat
+1905 F explore
+1855 R walk
+1850 S comm
+1740 P ITCS 5010
+1730 F nap
+1720 R walk
+1700 F va
+1655 S comm
+1645 P school
+1640 F article
+1630 P notes
+1625 S comm
+1615 R walk
+1610 S comm
+1605 P notes
+1535 R poop
+1525 R walk
+1510 R drive
+1505 S walker
+1450 R drive
+1435 R walk
+1430 R br
+1410 E eat
+1400 R walk
+1350 GOD ministry
+1210 S CAIR
+1205 R walk
+1115 P ITCS 5122
+1110 S walker
+1055 R walk
+1015 R drive
+1005 R walk
+0950 R poop
+0945 F dawdle
+0935 R walk
+0835 P school
+0820 R walk
+0805 R drive
+0800 R ready
+0750 E eat
+0735 R ready
+0730 F think
+0725 R br
+
+10/12/25 Su 0855-0025
+0020 LO lo
+2350 P school
+2335 P hw ITCS 5122
+2330 P notes
+2320 R ready
+2315 S comm
+2245 E eat
+2235 R drive
+2230 R walk
+2105 S ignite
+1830 GOD ignite
+1825 R walk
+1820 E eat
+1705 P hw ITCS 5122
+1700 F music
+1635 E eat
+1630 P notes
+1625 R walk
+1615 R shower
+1610 S eli
+1515 W workout
+1445 R poop
+1440 R ready
+1435 R walk
+1430 F think
+1355 F nap
+1345 P notes
+1340 R br
+1335 R walk
+1325 R drive
+1320 R walk
+1130 GOD church
+1115 R drive
+1105 R ready
+1055 P business
+1045 F music
+1040 P notes
+1035 W workout
+1015 R ready
+0945 E eat
+0925 F yt
+0905 R poop
+0900 R ready
+0855 R br
+
+10/11/25 Sa 0830-0040
+0030 LO lo
+0020 R shop
+0015 F aliexpress
+0010 P business
+0005 F music
+0000 P business
+2355 R ready
+2350 R shower
+2335 P tm school
+2330 R ready
+2300 S comm
+2255 P tm notes
+2245 R ready
+2240 P tm notes
+2235 S tm comm
+2230 P business
+2220 R ready
+2215 R br
+2205 P school
+2140 E eat
+2130 R drive
+2120 R walk
+2100 F music
+1820 P hw ITCS 5122
+1815 F music
+1810 P school
+1740 R shop
+1710 F aliexpress
+1705 P business
+1635 F aliexpress
+1630 F yt
+1615 P business
+1610 F article
+1605 P notes
+1550 F yt
+1545 E eat
+1535 P notes
+1530 P business
+1500 F nap
+1450 F think
+1445 P notes
+1440 P business
+1435 R br
+1415 E eat
+1410 F yt
+1405 F dawdle 
+1350 P business
+1345 P notes
+1340 R ready
+1330 R walk
+1245 W workout
+1220 R poop
+1210 S jaydon
+1205 R walk
+1155 R drive
+1150 S debbie
+1140 E eat
+1125 R ready
+1120 F dawdle
+1110 R laundry
+1055 F yt
+1035 R poop
+1025 R clean
+1020 F music
+1015 F yt
+1010 R clean
+1005 R ready
+1000 P school
+0955 S dan
+0945 E eat
+0930 R clean
+0920 R ready
+0855 GOD qt
+0845 GOD pray
+0840 E eat
+0835 R laundry
+0830 R br
+
+10/10/25 F 0835-0005
+2355 LO lo
+2350 R laundry
+2340 R ready
+2335 F dressup
+2325 R clean
+2320 R ready
+2255 E eat
+2240 R drive
+2225 R walk
+2120 P hw ITCS 5122
+2115 S comm
+2110 P business
+2055 F yt
+2050 P notes
+1955 F music
+1925 S CAIR
+1905 P school
+1900 F dawdle
+1855 F think
+1845 P hw ITCS 5010
+1840 P notes
+1835 S CAIR
+1825 E eat
+1810 R walk
+1630 GOD ministry 
+1625 GOD pray
+1620 F think
+1615 R poop
+1610 E eat
+1600 R walk
+1500 GOD ministry
+1455 F dawdle
+1435 F nap
+1425 R walk
+1420 P hw ITCS 3750
+1415 P business
+1410 F music
+1405 F dawdle
+1400 P notes
+1355 P business
+1340 R walk
+1335 R br
+1330 W workout
+1230 S ritik
+1225 S mom
+1215 E eat
+1205 S ritik
+1140 R drive
+1135 R shop
+1130 P notes
+1100 R drive
+1055 F va
+1050 P notes
+1040 R ready
+1035 R laundry
+1030 R ready
+1020 R clean
+1015 R ready 
+1010 R laundry
+1000 R ready
+0955 R laundry
+0940 E eat
+0935 R ready
+0910 GOD qt
+0905 F think
+0855 GOD pray
+0850 F think
+0840 R laundry
+0835 R br
+
+10/9/25 Th 0730-0100
+0050 LO lo
+0045 P notes
+0040 R ready
+0035 S comm
+0025 R ready
+0015 E eat
+0005 R drive
+2335 S ignite
+2330 R drive
+2325 E eat
+2320 S harsh
+2300 R walk
+1900 S ignite
+1845 R walk
+1815 GOD ignite
+1750 R walk
+1740 S shower
+1730 R poop
+1725 S caleb
+1715 R walk
+1645 P hw ITCS 5122
+1635 P notes
+1630 GOD journal
+1530 P notes
+1515 P business
+1510 P notes
+1500 P school
+1450 E eat
+1440 R walk
+1415 F va
+1400 W workout
+1355 R walk
+1315 F nap
+1305 F tm read
+1300 R walk
+1255 R br
+1245 E eat
+1240 R walk
+1230 S abheek
+1130 W workout
+1105 R walk
+1100 R drive
+1055 F dawdle
+1050 P business
+1045 R drive
+1040 R walk
+1035 F va
+1030 S comm
+1025 P school
+1020 F va
+1015 F think
+0950 R poop
+0945 P notes
+0935 P business
+0930 R br
+0920 R drive
+0915 R walk
+0855 S dad
+0850 P notes
+0830 S dad
+0815 E eat
+0800 R drive
+0750 S dan
+0730 R ready
+
+10/08/25 W 0805-0120
+0115 LO lo
+0110 R ready
+0100 S dad
+0055 R ready
+0050 F pics
+0035 R ready
+0030 R shower
+0015 R poop
+0010 F think
+0005 GOD pray
+0000 P tm notes
+2355 E eat
+2350 P notes
+2340 S tm comm
+2335 R ready
+2330 W workout
+2315 F yt
+2310 R clean
+2240 E eat
+2235 R br
+2220 R drive
+2200 F music
+2035 S ritik
+2020 E eat
+2000 R walk
+1955 S ajay
+1950 E eat
+1945 R walk
+1940 S comm
+1935 R walk
+1900 P hw ITCS 5010
+1740 P ITCS 5010
+1735 S bruh
+1730 R walk
+1725 S ajay
+1720 R walk
+1630 W workout
+1620 R walk
+1555 S ignite
+1450 GOD ministry
+1440 S jonathan
+1430 R walk
+1425 S ajay
+1410 P hw ITCS 3750
+1405 P school
+1355 S ajay
+1345 R walk
+1340 F va
+1330 E eat
+1325 R ready
+1320 R walk
+1310 P business
+1305 F dawdle
+1300 R walk
+1250 S CAIR
+1235 P school
+1230 P notes
+1215 S CAIR
+1210 R br
+1205 R walk
+1200 S Dalton
+1115 P ITCS 5122
+1110 R walk
+1105 S CAIR
+1045 R walk
+1030 R drive
+1025 F dawdle
+1005 R ready
+0945 E eat
+0940 R ready
+0925 R ready
+0920 R shower
+0915 F think
+0850 GOD qt
+0840 GOD pray
+0835 F think
+0815 R poop
+0810 F think
+0805 R br
+
+10/07/25 T 0855-2255
+2245 LO lo
+2235 P school
+2230 P notes
+2210 GOD pray
+2200 F think
+2150 F dressup
+2140 R ready
+2130 S dan
+2115 R drive
+2100 R walk
+1920 P hw ITCS 5010
+1915 F language
+1910 S Ajay
+1905 P school
+1855 P notes
+1850 W workout
+1845 S comm
+1830 P hw ITCS 5010
+1820 P notes
+1805 F va
+1800 S CAIR
+1700 P school
+1655 R walk
+1650 S CAIR
+1635 P school
+1625 P notes
+1615 R walk
+1610 R drive
+1605 R shop
+1600 R walk
+1555 S Miracle
+1435 P volunteer
+1430 R drive
+1420 R walk
+1415 R br
+1410 R walk
+1405 S ben
+1250 GOD ministry
+1235 R walk
+1220 R drive
+1215 R ready
+1150 F yt
+1100 F nap
+1050 R clean
+1045 F language
+1040 P notes 
+1035 F dawdle
+1025 F think
+1010 GOD qt
+1005 GOD pray
+1000 R clean
+0955 P notes
+0950 R ready
+0945 F dressup
+0935 R ready
+0930 R clean
+0925 F yt
+0920 P notes
+0915 F think
+0910 R ready
+0905 R shower
+0900 P school
+0855 R br
+
+10/06/25 M 0555-0000
+2350 LO lo
+2345 R ready
+2225 P hw ITCS 5122
+2220 P notes
+2215 F va
+2210 R ready
+2205 R shower
+2200 R ready
+2145 R drive
+2140 S maria
+2100 GOD ministry
+2055 R drive
+2045 GOD pray
+2010 S ritik
+1950 R cut
+1935 S ritik
+1930 R drive
+1915 R walk
+1900 P hw ITCS 5122
+1855 S comm
+1850 P school
+1845 F va
+1730 P ITCS 5010
+1715 F nap
+1710 S comm
+1700 R walk
+1655 F language
+1555 P school
+1550 P notes
+1545 F language
+1540 S comm
+1520 S CAIR
+1510 R walk
+1505 F dawdle
+1500 R walk
+1455 S ignite
+1435 GOD ignite evangelism
+1425 R walk
+1345 P school
+1335 S CAIR
+1325 F va
+1320 P school
+1315 F language
+1300 R walk
+1255 S Dr. Dinar
+1225 P research
+1210 R walk
+1200 S jeniya
+1115 P ITCS 5122
+1110 R br
+1105 S CAIR
+1030 P hw ITCS 5122
+1025 F music
+1020 S comm
+1015 P notes
+1010 S comm
+0935 P research
+0930 F music
+0925 S comm
+0920 S kento
+0855 R poop
+0715 P research
+0710 W stretch
+0705 F va
+0700 P notes
+0655 R br
+0640 R walk
+0625 R drive
+0620 F dressup
+0605 R ready
+0555 F dawdle
+
+10/05/25 Su 0830-0020
+0015 LO lo
+0010 S comm
+0005 GOD pray
+2355 R ready
+2345 R drive
+2335 R walk
+2300 P research
+2250 F va
+2245 P notes
+2240 F think
+2215 F language
+2210 P school
+2205 P notes
+2200 R walk
+2105 S ignite
+1730 GOD ignite
+1725 R br
+1720 R walk
+1715 P school
+1650 P research
+1630 F va
+1625 S comm
+1620 F think
+1610 P notes
+1520 P research
+1515 F yt
+1455 P notes
+1450 F think
+1440 R walk
+1320 F nap
+1310 R walk
+1300 R drive
+1250 R walk
+1145 S carter
+1130 P notes
+1110 GOD qt
+1100 P notes
+1050 R walk
+1040 R drive
+0925 GOD church
+0910 R drive
+0905 R ready
+0900 F dressup
+0830 R ready
+
+10/04/25 Sa 0845-0135
+0110 LO lo
+0100 P notes
+0005 F dawdle…
+0000 R ready
+2355 GOD pray
+2345 R ready
+2340 R shower
+2335 F yt
+2320 R poop
+2225 S carter
+2215 S tm zach
+2200 E eat
+2135 S tm zach
+2125 S zach
+2115 R drive
+2105 R walk
+2100 P school
+2045 E eat
+2040 F think
+2025 P notes
+2020 F yt
+2000 F language
+1950 P notes
+1945 F language
+1935 P notes
+1925 P school
+1910 F yt
+1905 F article
+1855 P school
+1850 P business
+1845 P notes
+1830 P school
+1825 F language
+1820 P notes
+1810 F yt
+1755 F music
+1750 S comm
+1725 F music
+1720 P school
+1715 E eat
+1705 F language
+1700 P notes
+1655 Eat
+1650 R walk
+1640 E eat
+1630 R walk
+1615 W workout
+1605 R walk
+1545 S Darren
+1505 W workout
+1500 R walk
+1450 S comm
+1445 R walk
+1440 P notes
+1435 E eat
+1430 P research
+1425 F music
+1420 P notes
+1415 E eat 
+1410 F music
+1400 P notes
+1355 R clean
+1350 E eat
+1340 R walk
+1335 S abhishek and azhar
+1240 W workout
+1235 R walk
+1225 R drive
+1210 R ready
+1155 R clean
+1145 E eat
+1140 P school
+1020 F yt
+1010 R ready
+0955 R clean
+0935 E eat
+0925 GOD qt
+0915 GOD pray
+0910 R ready
+0850 R poop
+0845 F think
+
+10/03/25 F 0305-2115
+2115 LO lo
+2105 F dawdle.
+2100 F yt
+2055 P notes
+2040 F yt
+2030 R ready
+2025 R shower
+2015 R ready
+2005 F yt
+1955 E eat
+1930 R clean
+1915 R drive
+1910 R walk
+1905 R clean
+1820 S ritik
+1800 P school
+1745 R walk
+1735 S mom
+1730 R walk
+1720 R poop
+1700 S CAIR
+1645 F CAIR
+1620 P school
+1600 R walk
+1500 P research
+1450 P research
+1430 R walk
+1425 P research
+1330 P MATH 2688
+1325 P notes
+1320 R br
+1230 P research
+1220 F music
+1215 S comm
+1210 R br
+1155 R walk
+1140 R drive
+1135 S jnp
+0935 P volunteer
+0920 R drive
+0905 R walk
+0855 R ready
+0800 P research
+0755 F think
+0750 F dawdle
+0745 P research
+0740 R ready
+0730 P research
+0710 F aliexpress
+0650 P research
+0645 F dawdle
+0640 F language
+0630 E eat
+0625 F dawdle
+0600 R poop
+0425 P research
+0420 F music
+0415 P school
+0400 F think
+0350 P notes
+0325 P research
+0320 P school
+0315 F CAIR
+0310 P notes
+0305 F fam
+
+10/02/25 Th 0800-2330
+2315 LO lo
+2310 P research
+2305 R ready
+2255 P research
+2250 F nap
+2240 F think
+2235 E eat
+2220 P notes
+2205 GOD ministry
+2125 S ramon
+2110 P research
+2105 E eat
+2100 P notes
+2055 F think
+2050 F language
+2045 P notes
+2030 P school
+2025 E eat
+2015 F dawdle
+2010 P notes
+2000 S CAIR
+1950 R walk
+1805 S grad
+1755 R walk
+1615 S coffee hr
+1600 S ritik
+1545 S garden
+1520 R walk
+1510 S ritik
+1505 S ramon
+1455 S raza
+1445 S ritik
+1435 R walk
+1430 R shop
+1320 P volunteer
+1300 R walk
+1255 P hw ITCS
+1240 R poop
+1235 R walk
+1230 W workout
+1150 P research
+1135 P notes
+1130 S CAIR
+1115 E eat
+1110 R walk
+1105 S ignite
+1005 GOD ignite evangelism
+1000 R walk
+0905 GOD ignite prayer
+0855 R walk
+0840 R drive
+0835 E eat
+0830 R ready
+0825 R shower
+0805 R poop
+0800 F nap
+
+10/01/25 W 0845-2355
+2350 LO lo
+2330 R ready
+2320 E eat
+2310 R drive
+2305 GOD pray
+2250 P hw ITCS 5122
+2155 S ritik
+2145 P hw ITCS 5010
+2125 S ritik
+2115 E eat
+2045 R walk
+2035 S ignite
+1915 GOD ignite Bible study
+1905 R walk
+1900 F nap
+1730 P ITCS 5010
+1720 S ethan
+1705 R walk
+1650 R drive
+1645 S ritik
+1625 P ITCS 5122
+1610 S ritik
+1600 P notes
+1545 S karson
+1540 E eat
+1520 R drive
+1500 GOD ministry
+1215 S ritik karson
+1200 R drive
+1155 S comm
+1145 R ready
+1130 F dressup
+1125 R ready
+1115 P ITCS 5010
+1110 F dress up
+1105 R ready
+1100 R laundry
+1050 R ready
+1045 S dan
+1035 E eat
+1030 R laundry
+1025 F dress up
+1015 R ready
+1010 P school
+1005 P business
+1000 P notes
+0950 P school
+0945 F think
+0930 GOD qt
+0925 R laundry
+0920 F think
+0915 GOD pray
+0850 R poop
+0845 F dawdle
+
+7/24/25 Th 0830-0040
+0030 LO lo
+0025 S comm
+0020 R br
+0015 P notes
+0000 F yt
+2345 P school
+2325 P notes
+2300 P school
+2250 P work
+2245 R br
+2225 S areesh
+2220 S comm
+2215 F article
+2210 P school
+2200 P notes
+2155 R ready
+2150 P notes
+2135 F draw
+2130 P notes
+2125 F spanish
+2120 S comm
+2110 R ready
+2105 R shower
+2100 P notes
+2030 S tm Karson
+2000 S Karson
+1955 R ready
+1940 E eat
+1930 R walk
+1845 W workout
+1840 S Adeeba
+1750 S tm mom dad
+1745 R walk
+1740 R br
+1735 R walk
+1610 P work
+1605 E eat
+1515 P notes
+1415 GOD ministry
+1330 S Dee
+1315 E eat
+1310 R walk
+1305 P notes
+1300 S comm
+1250 R walk
+1230 R poop
+1225 F dawdle
+1215 P work
+1210 F think
+1205 P school
+1110 P work
+1100 F dawdle
+1050 R ready
+1045 W workout
+1040 F va
+1030 P work
+1025 P notes
+1005 R poop
+0950 P work
+0945 F think
+0935 P work
+0930 P notes
+0920 P notes
+0910 R ready
+0905 F dawdle
+0855 S comm
+0850 P school
+0845 R ready
+0840 E eat
+0835 R br
+0830 F music
+
+7/23/25 W 0845-0105
+0055 LO lo
+0045 R ready
+0040 F dawdle
+0030 S Victor
+2305 P work
+2300 S comm
+2240 P work
+2235 F music
+2225 P work
+2215 P notes
+2205 P work
+2155 F music
+2135 F yt
+2125 R ready
+2120 E eat
+2115 R shower
+2040 P tm work
+2030 R ready
+1950 F yt
+1945 P work
+1935 F article
+1930 E cook
+1910 E eat
+1905 S Bridge
+1855 R walk
+1830 W workout
+1825 S prajeeta
+1820 R walk
+1815 R br
+1810 P notes
+1735 P work
+1730 F dawdle
+1715 P notes
+1705 F dawdle
+1655 R walk
+1650 S Dee
+1540 P work
+1535 R br
+1530 R walk
+1525 E eat
+1415 P work
+1410 R br
+1405 F music
+1305 P work
+1300 P notes
+1255 S REU
+1245 R walk
+1240 R ready
+1235 E eat
+1230 R ready
+1210 F nap
+1205 S comm
+1125 P work
+1120 E eat
+1110 F think
+1015 P work
+1000 P notes
+0955 S comm
+0950 P notes
+0940 GOD church
+0920 R ready
+0915 F yt
+0855 R poop
+0850 R ready
+0845 E eat
+
+7/22/25 T 0810-0000
+2355 LO lo
+2350 R ready
+2330 P work
+2325 P school
+2305 S comm
+2300 P notes
+2255 R ready
+2250 R laundry
+2245 P notes
+2240 R laundry
+2235 R shower
+2230 R walk
+2210 R drive
+2155 W workout
+1955 S REU
+1930 E eat
+1845 S REU
+1825 R drive
+1820 R walk
+1815 F dressup
+1805 R ready
+1800 R walk
+1740 R poop
+1735 E eat
+1730 P notes
+1725 P school
+1720 S comm
+1620 P work
+1615 S comm
+1540 F nap
+1445 P school
+1440 P work
+1425 S comm
+1415 P work
+1410 R shower
+1405 R ready
+1355 E eat
+1350 S Pavan
+1345 R ready
+1335 R walk
+1320 S Dee
+1255 E eat
+1245 R walk
+1235 S comm
+1210 F nap
+1205 R walk
+1120 W workout
+1110 R walk
+1105 F dawdle
+1050 E eat
+1045 R laundry
+1020 F nap
+1015 P work
+1010 S Pavan
+1005 F dawdle
+1000 R laundry
+0950 R clean
+0945 R walk
+0930 R poop
+0925 F dawdle
+0920 R ready
+0910 R clean
+0900 E cook
+0855 R ready
+0835 GOD qt
+0830 GOD pray
+0825 F think
+0815 R ready
+0810 R shower
+
+7/21/25 M 0810-0140
+0130 LO lo
+0120 R clean
+0000 F dawdle...
+2350 R ready
+2340 R shower
+2320 S victor
+2315 P notes
+2310 R walk
+2305 E eat
+2255 F think
+2145 R cut
+2140 E eat
+2105 P tm work
+2100 E cook
+2040 P tm work
+2035 S comm
+2005 P tm work
+2000 P tm school
+1955 S tm comm
+1945 P tm school
+1935 E eat
+1800 F yt
+1750 F nap
+1745 F think
+1740 E eat
+1720 R poop
+1605 P school
+1600 W workout
+1540 P school
+1530 P notes
+1510 F article
+1455 E eat
+1450 S Dan
+1440 R walk
+1350 W workout
+1340 R walk
+1300 P work
+1255 R br
+1230 E eat
+1100 P work
+1045 R poop
+1000 P school
+0920 P work
+0910 P notes
+0855 R walk
+0850 E eat
+0845 GOD church
+0830 R ready
+0825 F yt
+0815 R ready
+0810 F music
+
+7/20/25 Su 0745-0140
+0110 LO lo
+0055 GOD pray
+0045 P notes
+0015 F dawdle…
+0010 R ready
+2350 S comm
+2345 R ready
+2335 R shower
+2240 P tm school
+2225 R ready
+2210 E eat
+2205 R walk
+2200 P work
+2155 F music
+2110 W workout
+2100 F explore
+2045 E eat
+2040 R ready
+2030 S giselle
+2025 R walk
+2015 P school
+1930 S giselle
+1925 R walk
+1920 E cook
+1915 F words
+1710 P work
+1705 F think
+1700 E eat
+1655 P notes
+1635 S anna
+1625 P work
+1620 W workout
+1615 E eat
+1435 P work
+1430 E eat
+1410 F nap
+1405 P work
+1400 W workout
+1355 F phone
+1350 P work
+1345 P notes
+1330 R ready
+1325 E eat
+1320 E cook
+1315 R walk
+1300 R drive
+1255 R walk
+1230 R shop
+1220 F dawdle
+1210 R drive
+1205 F gw
+1155 R shop
+1145 R drive
+1130 S Morgan
+1005 GOD church
+0940 R drive
+0935 R walk
+0920 R ready
+0900 R poop
+0850 P work
+0835 P school
+0830 F article
+0825 P school
+0810 P notes
+0805 GOD pray
+0800 W stretch
+0755 F dressup
+0745 R ready
+
+7/19/25 Sa 0830-2345
+2335 LO lo
+2325 R ready
+2320 R shower
+2315 R walk
+2310 F think
+2245 P work
+2230 F yt
+2210 P work
+2205 R br
+2155 P school
+2140 P work
+2135 F think
+2130 P notes
+2120 P school
+2115 W workout
+2110 P school
+2020 P work
+2005 P school
+1955 P notes
+1940 E eat
+1935 R walk
+1835 GOD ministry
+1605 S Victor
+1555 R walk
+1550 S comm
+1520 F nap
+1510 W exercise
+1505 R cut
+1500 F soccer
+1450 R walk
+1445 F dawdle...
+1440 R ready
+1430 E eat
+1420 F spanish
+1400 P work
+1355 F spanish
+1350 W workout
+1335 P work
+1330 P notes
+1325 W workout
+1320 R ready
+1305 R shower
+1245 F dawdle…
+1235 F think
+1225 P work
+1215 F spanish
+1210 F yt
+1200 P notes
+1155 F think
+1145 F dawdle…
+1140 R walk
+1115 R poop
+1110 R walk
+1105 R ready
+1100 P notes 
+1055 S comm
+1040 GOD journal
+1035 F article
+1030 GOD journal
+1020 P notes
+1015 W workout
+1010 F think
+1000 R ready
+0955 R ready
+0945 E cook
+0935 R ready
+0930 E eat
+0925 F think
+0905 GOD qt
+0900 E eat
+0835 R ready
+0830 GOD pray
+
+
+7/18/25 F 0755-0015
+0010 LO lo
+0005 F dressup
+2350 R ready
+2320 P work
+2300 F dawdle
+2255 F photos
+2220 P work
+2215 P notes
+2210 S comm
+2200 P notes
+2155 W workout
+2150 F think
+2145 E eat
+2135 R ready
+2130 R laundry
+2100 S Pavan
+2050 P tm notes
+2030 S tm dad
+2020 R ready
+2015 E eat
+2010 P work
+2000 S Giselle
+1955 R shower
+1935 E eat
+1930 S Karson
+1920 R walk
+1835 W workout
+1830 R walk
+1805 R poop
+1800 E eat
+1750 F music
+1740 P notes
+1735 E eat
+1725 P work
+1600 P school
+1555 E eat
+1525 P school
+1520 P work
+1505 P notes
+1455 P work
+1435 P school
+1415 F words
+1355 P school
+1350 W workout
+1335 P school
+1325 E eat
+1315 P school
+1310 S comm
+1305 P notes
+1210 P school
+1205 F music
+1200 R br
+0955 P school
+0950 P notes
+0940 R walk
+0915 R poop
+0910 F think
+0905 R walk
+0900 F think
+0850 R ready
+0835 GOD qt
+0830 GOD pray
+0815 E eat
+0755 R ready
+
+7/17/25 Th 0725-2320
+2315 LO lo
+2310 R ready
+2255 P notes
+2240 P work
+2235 F think
+2230 W workout
+2205 P notes
+2200 R ready
+2145 P notes
+2140 S Carmen
+2135 S Anna
+2100 S REU
+2025 P school
+2020 F yt
+2015 F words
+2010 P notes
+2000 R ready
+1955 R shower
+1950 W exercise
+1945 F tm grok
+1925 S tm comm
+1905 E eat
+1900 R walk
+1850 S ramon
+1845 R shop
+1825 R walk
+1745 W workout
+1735 S mom
+1725 R walk
+1720 R br
+1600 P work
+1555 R walk
+1405 P work
+1400 E eat
+1345 P work
+1335 R walk
+1325 R ready
+1320 E eat
+1305 P work
+1255 P notes
+1250 P school
+1245 E eat
+1240 R ready
+1225 GOD pray
+1215 P work
+1210 F yt
+1040 P work
+1030 P notes
+1025 F think
+1015 S comm
+1005 P business
+0955 R ready
+0940 GOD pray
+0935 F think
+0925 R ready
+0915 R ready
+0825 P work
+0820 S comm
+0810 P notes
+0805 R ready
+0800 R shower
+0730 F dawdle…
+0725 F think
+
+7/16/25 W 0755-2355
+2345 LO lo
+2330 R ready
+2325 R walk
+2200 F yt
+2155 P work
+2140 F music
+2135 F think
+2130 R walk
+2110 P work
+2105 E eat
+2100 R walk
+2000 P work
+1940 S giselle
+1935 R ready
+1915 E eat
+1910 S Shreya
+1900 R walk
+1825 P work
+1820 F dawdle
+1735 P work
+1730 W workout
+1705 P work
+1700 P notes
+1650 F article
+1635 P work
+1630 R br
+1615 P work
+1600 P school
+1500 P work
+1455 F nap
+1450 F think
+1440 P school
+1435 E eat
+1430 P notes
+1405 P work
+1400 S comm
+1330 P work
+1310 P notes
+1305 F music
+1300 S comm
+1255 F dawdle
+1245 E eat
+1235 P notes
+1225 R walk
+1130 F nap
+1120 W workout
+1110 R walk
+1105 E eat
+1055 GOD pray
+1050 F think
+1045 P school
+1040 F think
+1030 P school
+1025 F words
+0930 P notes
+0925 F dawdle…
+0920 E eat
+0900 R ready
+0850 F nap
+0830 R poop
+0825 R ready
+0820 E eat
+0805 GOD qt
+0800 GOD pray
+0755 R ready
+
+7/15/25 T 0805-2340
+2335 LO lo
+2255 P notes
+2250 R ready
+2245 R walk
+2235 R drive
+2220 R walk
+2115 S Morgan
+2100 S Janelle
+1905 GOD church
+1850 R drive
+1845 R walk
+1835 R ready
+1830 F think
+1820 F nap
+1815 E eat
+1730 P work
+1725 E eat
+1720 P notes
+1710 F words
+1640 P work
+1635 P school
+1625 P notes
+1615 F yt
+1555 P school
+1550 R ready
+1535 E eat
+1525 R shower
+1515 R walk
+1435 W workout
+1425 R walk
+1420 R laundry
+1415 P notes
+1405 R poop
+1400 E eat
+1355 F soccer
+1345 P school
+1340 P work
+1325 P notes
+1320 R laundry
+1305 S REU
+1300 R walk
+0950 E cook
+0945 P notes
+0940 P school
+0935 P work
+0930 R walk
+0925 S others
+0825 E cook
+0815 R ready
+0810 E eat
+0805 R ready
+
+7/14/25 M 0805-2355
+2335 LO lo
+2315 F dawdle...
+2310 R ready
+2245 P work
+2240 S comm
+2230 P work
+2225 S Victor
+2215 P school
+2155 S Areesh
+2150 E eat
+2145 P notes
+2115 P school
+2110 P notes
+2105 P work
+2045 P work
+2035 E eat
+2025 R shower
+1950 P work
+1945 F think
+1935 P notes
+1930 R ready
+1915 S mom
+1855 E eat
+1845 R walk
+1835 P notes
+1740 W workout
+1730 P tm notes
+1720 R walk
+1650 R poop
+1535 P work
+1520 P notes
+1505 F yt
+1455 F spanish
+1405 P work
+1400 F think
+1345 P notes
+1340 R br
+1100 P work
+1055 R walk
+1035 R poop
+1030 R cut
+1025 P notes
+1020 F article
+1015 P notes
+1000 P school
+0955 F dawdle
+0945 P school
+0940 P work
+0925 R walk
+0910 R ready
+0905 E eat
+0840 GOD qt
+0835 GOD pray
+0830 F dressup
+0825 E eat
+0810 R ready
+0805 F dawdle...
+
+7/13/25 Su 0615-2315
+2305 LO lo
+2300 R ready
+2245 S Victor
+2235 R laundry
+2230 E eat
+2225 R ready
+2220 R shower
+2215 R ready
+2205 W workout
+2120 P work
+2115 W workout
+2110 S Giselle
+2105 R ready
+2100 R laundry
+2040 E eat
+2030 R laundry
+1925 E eat
+1920 R walk
+1915 S Artemis
+1910 R laundry
+1850 R poop
+1840 P work
+1820 S Giselle
+1655 P work
+1650 R walk
+1530 R drive
+1430 S Fam
+1405 E eat
+1400 R br
+1130 S Fam
+1100 E eat
+1000 S Aunt Renee
+0950 R drive
+0940 S church
+0800 GOD church
+0635 R drive
+0630 R walk
+0615 E eat
+0605 R ready
+
+7/12/25 Sa 0740-2345
+2310 LO lo
+2300 R ready
+2250 S giselle
+2245 R ready
+2145 P work
+2135 F facts
+2120 R ready
+2115 R shower
+2105 E eat
+2100 W workout
+1920 P work
+1915 E eat
+1905 S comm
+1900 R walk
+1840 R poop
+1810 P work
+1805 F words
+1800 P notes
+1755 P work
+1740 GOD church
+1735 S comm
+1730 E eat
+1715 P school
+1710 F music
+1705 P notes
+1620 F words
+1615 S discord
+1610 S zach
+1605 S Victor
+1555 R walk
+1550 R ready
+1510 F nap
+1500 F think
+1455 S comm
+1450 R clean
+1425 E eat
+1415 R walk
+1325 W workout
+1320 R walk
+1315 E eat
+1145 S Thomas
+1140 R clean
+1120 E eat
+1110 R walk
+1105 F think
+1045 R br
+1020 P tm work
+1010 P tm notes
+1005 S tm comm
+1000 R br
+0935 S tm Jacob
+0925 P tm notes
+0920 R walk
+0910 R clean
+0905 E eat
+0820 S Thomas
+0810 S comm
+0805 GOD qt
+0800 GOD pray
+0740 R ready
+
+7/11/25 F 0755-2330
+2315 LO lo 
+2310 S comm  
+2305 R walk  
+2300 P notes  
+2205 P work  
+2150 S comm  
+2145 F language  
+2140 W workout  
+2135 F texas a&m  
+2125 F religion map  
+2120 F music  
+2115 E eat  
+2110 R walk  
+2100 P notes  
+2055 S anna  
+2045 P work  
+2035 R shower
+2015 E eat  
+2005 R walk  
+1950 GOD church  
+1945 S comm  
+1940 R walk  
+1905 W workout  
+1855 R walk  
+1850 R br  
+1735 P work  
+1730 S Osmanhan  
+1720 P notes  
+1710 F yt  
+1645 R poop  
+1640 E eat  
+1545 P school  
+1540 S comm  
+1535 P notes  
+1530 R br  
+1445 P school  
+1440 S comm  
+1320 P school  
+1300 F prof  
+1235 P school  
+1225 E eat  
+1220 R br  
+1200 P school  
+1130 P work  
+1120 F grok  
+1050 P school  
+1030 F grok  
+1020 P school  
+0945 P school  
+0930 P notes  
+0920 R walk  
+0910 R ready  
+0905 E eat  
+0840 R poop  
+0835 GOD pray  
+0815 GOD qt  
+0810 R clean  
+0805 R ready  
+0800 E eat  
+0755 F sit
+
+4/6/25 Su 0830-0130
+0100 LO lo
+0055 P notes
+0045 P hw ITSC 3146
+0040 P notes
+0025 E eat
+0015 R drive
+0010 R walk
+0005 F think
+0000 P notes
+2225 P hw ITSC 3146
+2220 S comm
+2200 R poop
+2150 P school
+2130 S comm
+2125 P school
+2120 F think
+2110 S comm
+2100 P notes
+2030 S ignite
+1830 GOD ignite
+1815 R drive
+1810 S Dan Debbie
+1800 E eat
+1750 R shower
+1730 R poop
+1725 R ready
+1705 R drive
+1655 F gw
+1645 R drive
+1635 S Ryan
+1245 P work
+1240 S comm
+1215 R drive
+1200 E eat
+1155 R laundry
+1145 P notes
+1140 W workout
+1135 GOD ministry
+1130 F think
+1120 GOD pray
+1115 S comm
+1055 R ready
+1050 F yt
+1035 P notes
+1030 S comm
+1020 F va
+1000 R ready
+0930 R poop
+0915 F piano
+0855 E eat
+0850 R br
+0830 GOD qt
+
+4/5/25 Sa 0815-0125
+0120 LO lo
+0040 P school
+0025 R shower
+0015 F tm aliexpress
+0010 F dance
+0005 R br
+2355 F Funds
+2335 P tm school
+2330 S tm comm
+2320 E cook
+2310 P tm school
+2305 E cook
+2255 P tm school
+2250 F think
+2240 E cook
+2230 P tm hw ITSC 3146
+2210 E cook
+2150 P tm hw ITSC 3146
+2130 E cook
+2120 F think
+2110 F va
+2100 E cook
+2045 P notes
+2040 F article
+2035 F memories
+2030 F think
+2020 P notes
+2015 R br
+1945 E eat
+1910 R drive
+1905 S Ritik
+1845 R drive
+1840 S Ramon
+1830 P school
+1825 P notes
+1820 F memories
+1815 R drive
+1810 E eat
+1805 R ready
+1800 GOD ministry
+1730 P business
+1700 R clean
+1605 GOD ministry
+1540 R drive
+1530 P business
+1525 R drive
+1410 P work
+1400 P notes
+1325 S comm
+1300 R drive
+1250 S Ramon
+1230 F read
+1215 R drive
+1210 S comm
+1200 E cook
+1140 F read
+1135 R clean
+1120 E cook
+1115 F hobby
+1110 F think
+1100 R ready
+1000 E cook
+0925 E eat
+0920 R ready
+0850 GOD qt
+0845 P notes
+0840 R ready
+0820 R poop
+0815 F sit in bed
+
+4/4/25 F 0800-2330
+2330 LO lo
+2325 R ready
+2315 P notes
+2310 R ready
+2305 R laundry
+2300 R shower
+2245 P tm notes
+2230 F think
+2225 R laundry 
+2215 F article
+2200 P notes
+2150 P tm notes
+2145 S comm
+2135 F think
+2130 P tm notes
+2125 S comm
+2120 S Dan
+2100 R clean
+2055 R laundry
+2045 R ready
+2030 F dance
+2025 F think
+2015 E eat
+2000 R drive
+1945 R walk
+1940 R ready
+1920 S Billy
+1835 P hw ITSC 3146
+1835 P notes
+1745 E eat
+1735 S Mounika
+1730 F dawdle
+1725 P notes
+1705 R walk
+1700 S comm
+1630 R drive
+1620 R walk
+1600 S Ignite
+1550 R walk
+1215 F Climb
+1135 R drive
+1130 R walk
+1125 S Kimberlee
+1100 R poop
+1045 S Ritik
+1040 R walk
+1035 R br
+1025 R walk
+1015 R drive
+1010 F hobby
+1005 R clean
+0945 R ready
+0925 GOD qt
+0920 P notes
+0915 F think
+0910 P notes
+0905 R clean
+0900 R cut
+0830 E eat
+0825 R ready
+0820 R shower
+0800 R poop
+
+4/3/25 Th 0755-0120
+0030 LO lo
+0020 S comm
+0010 F gifs
+0000 R shower
+2355 P tm notes
+2350 P tm school
+2320 P school
+2250 P tm school
+2245 F think
+2240 R br
+2230 R clean
+2210 R ready
+2130 E eat
+2120 R drive
+2110 R walk
+2100 S Ignite
+1930 GOD ignite Bible study
+1920 R walk
+1915 S Ahmed
+1900 P school
+1855 R walk
+1850 E eat
+1845 S Amir
+1840 R clean
+1735 W workout
+1730 S Dylan
+1715 R poop
+1710 E eat
+1705 S Cole
+1700 S Amir
+1655 S Lydie
+1650 R walk
+1625 S Luke Joseph
+1540 GOD ignite Bible study
+1535 R br
+1530 S Emily Hagar
+1515 R walk
+1510 R drive
+1500 R shop
+1420 S volunteer
+1415 R drive
+1410 R walk
+1400 F Reddit
+1355 F article
+1350 P notes
+1340 S comm
+1330 S Mr. Hooker
+1300 P school
+1245 P notes
+1240 S comm
+1235 R br
+1230 R walk
+1225 R drive
+1220 R shop
+1215 F think
+1150 R drive
+1145 P notes
+1125 R drive
+1115 R ready
+1100 E eat
+1055 R ready
+1045 P school
+1040 P tm notes
+1035 F think 
+1030 R ready
+1025 P business
+1020 R clean
+1015 R ready
+1010 F think
+1005 R ready
+0940 GOD qt
+0925 S comm
+0915 P notes
+0900 F article
+0850 P notes
+0845 F music
+0825 E eat
+0800 R poop
+0755 F think
+
+4/2/25 W 0700-2305
+2305 LO lo
+2300 R ready
+2245 P notes
+2240 R shower
+2230 F think
+2155 F music
+2150 P school
+2140 P tm school
+2135 P tm notes
+2130 W workout
+2125 R br
+2110 P tm school
+2105 P tm notes
+2100 F think
+2015 S Dad
+2000 R ready
+1925 E eat
+1905 R drive
+1850 R walk
+1845 S class
+1730 P ITSC 3156
+1725 R walk
+1720 S Rama Josiah
+1600 P STAT 3150
+1550 R poop
+1545 R walk
+1430 GOD ministry
+1415 P notes
+1405 GOD ministry
+1355 R walk
+1350 S Dr. Denise
+1335 E eat
+1320 R walk
+1315 S Dr. J
+1220 P ITSC 3688
+1210 R walk
+1205 E eat
+1145 S Kimberlee
+1140 R walk
+1125 P hw ITSC 3688
+1120 R walk
+1110 F va
+1005 P ITSC 3146
+1000 E eat
+0930 P hw ITSC 3688
+0925 F article
+0915 R walk
+0910 R ready
+0900 R shower
+0840 R poop
+0835 W exercise
+0745 P tm hw ITSC 3146
+0740 W stretch
+0725 R walk
+0715 P notes
+0710 E eat
+0700 R ready
+
+4/1/25 T 0815-0105
+0100 LO lo
+0050 R ready
+0000 S Ritik
+2225 P school
+2115 S Ritik
+2055 R walk
+2035 E eat
+2015 P school
+2010 P notes
+2005 E eat
+2000 S Cole
+1955 S Lydie
+1945 R walk
+1940 P business
+1935 F think
+1925 P business
+1920 E eat
+1900 P hw ITSC 3156
+1820 S CAIR
+1815 R walk
+1810 F dawdle
+1805 R walk
+1800 E eat
+1755 R br
+1720 W workout
+1715 R walk
+1600 GOD ministry
+1555 R walk
+1535 S Kimberlee
+1530 R br
+1520 R walk
+1500 S mom
+1455 S comm
+1450 R walk
+1435 W workout
+1430 R br
+1415 R walk
+1400 GOD ministry
+1300 S Caleb
+1255 R walk
+1235 P ITSC 3156
+1230 F lookup
+1225 P notes
+1220 S comm
+1145 P ITSC 3688
+1140 P notes
+1125 R walk
+1105 R drive
+1050 R ready
+1035 R clean
+1030 E eat
+1020 F pickup
+1005 R walk
+1000 F think
+0925 P business
+0915 R drive
+0900 E eat
+0830 R ready
+0825 R poop
+0820 R ready
+0815 R ready
+
+3/31/25 M 0715-2255
+2245 LO lo
+2240 P notes
+2230 S comm
+2220 R shower
+2140 P school
+2130 W workout
+2045 F music
+2040 F yt
+2025 F think
+2000 R ready
+1910 E eat
+1855 R drive
+1845 R walk
+1730 P ITSC 3156
+1725 S church
+1720 GOD ministry
+1710 R walk
+1600 P ITSC 3146
+1555 S Ajay
+1545 R walk
+1515 P school
+1435 P hw STAT 3150
+1400 S Toni
+1340 E eat
+1335 P business
+1325 R walk
+1320 S Ajay
+1215 P ITSC 3688
+1200 P STAT 3688
+1145 P business
+1140 R walk
+1130 R poop
+1125 E eat
+1115 R walk
+1100 P school
+1010 P ITSC 3146
+1000 R walk
+0955 E eat
+0920 P hw STAT 3150
+0855 P school
+0830 P hw ITSC 3146
+0820 R walk
+0815 S Shaun
+0800 R ready
+0755 R shower
+0740 R poop
+0730 P hw ITSC 3146
+0720 E eat
+0715 R ready
+
+3/30/25 Su 0755-0210
+0205 LO lo
+0145 P hw ITSC 3156
+0135 P notes
+0125 R ready
+0115 P hw ITSC 3146
+0105 GOD ministry
+0055 S Shaun
+0045 W workout
+0040 P notes
+0000 P school
+2210 S Shaun
+2205 P notes
+2145 S Shaun
+2140 S comm
+2120 R walk
+2115 S comm
+2045 S Ignite
+1730 GOD ignite
+1725 R walk
+1720 W workout
+1655 P school
+1650 S comm
+1635 P business
+1610 P notes
+1605 E eat
+1555 GOD ministry
+1545 P notes
+1540 R walk
+1530 R br
+1520 S Ben
+1205 S Bernadette
+1200 R walk
+1150 S Landon
+1135 R drive
+1125 S church
+0845 GOD church
+0840 R br
+0830 R drive
+0810 R clean
+0755 R ready
+
+3/29/25 Sa 0900-0010
+0010 LO lo
+0000 P notes
+2335 P hw ITSC 3146
+2305 S Landon
+2240 R drive
+2235 P business
+2210 R drive
+2200 R ready
+2150 R shower
+2140 R poop
+2135 F va
+2130 E eat
+2050 P tm hw ITSC 3156
+2005 F yt
+2000 F dawdle
+1955 S ramon
+1940 P tm hw ITSC 3156
+1920 P business
+1915 S Dan
+1905 P notes
+1900 R br
+1840 F aliexpress
+1830 P notes
+1825 E eat
+1820 R ready
+1815 W workout
+1810 F think
+1800 R laundry
+1750 R ready
+1745 E eat
+1735 F think
+1720 P hw ITSC 3156
+1710 F article
+1705 S comm
+1700 P hw ITSC 3156
+1655 F think
+1635 P hw ITSC 3156
+1605 F game
+1600 F yt
+1555 P notes
+1545 R shower
+1530 F dawdle
+1440 F nap
+1435 R laundry
+1430 S Dan
+1400 R clean
+1340 R laundry
+1330 F think
+1325 P notes
+1320 F think
+1315 F nap
+1305 S comm
+1245 R poop
+1240 R laundry
+1225 GOD qt
+1215 F nap
+1210 F dawdle
+1205 R laundry
+1200 F music
+1145 GOD qt
+1140 F dawdle
+1135 F dressup
+1130 F think
+1125 R ready
+1115 R laundry
+1030 R clean
+1010 S mom
+1000 R laundry
+0925 F piano
+0905 R ready
+0900 GOD qt
+
+3/28/25 F 0650-0205
+0200 LO lo
+0155 GOD pray
+0150 R shower
+0130 F dawdle
+0125 S comm
+0110 P notes
+0055 R shower
+0045 E eat
+0030 R drive
+2345 S Landon
+2320 R drive
+1950 GOD ministry
+1930 S Landon
+1910 R drive
+1905 S comm
+1900 R walk
+1850 GOD ministry
+1840 S Obed
+1830 E eat
+1825 R walk
+1815 R shower
+1740 W workout
+1715 S Ajay
+1705 R walk
+1555 P school
+1540 R walk
+1535 P notes
+1530 S comm
+1450 F nap
+1445 R walk
+1440 E eat
+1425 R poop
+1420 R walk
+1400 P school
+1350 R walk
+1325 P notes
+1315 R walk
+1220 P ITSC 3688
+1210 P hw ITSC 3688
+1205 R br
+1200 E eat 
+1150 R walk
+1100 P hw ITSC 3688
+1005 P ITSC 3146
+0955 R walk
+0850 P hw ITSC 3688
+0845 S comm
+0825 P hw ITSC 3146
+0815 S comm
+0750 P notes
+0740 R walk
+0730 E eat
+0650 R ready
+
+3/27/25 Th 0835-0110
+0105 LO lo
+0040 R br
+0035 E eat
+2150 S Shaun
+2125 R drive
+2105 S Ignite
+1725 GOD ministry
+1700 R drive
+1650 S Ritik
+1530 GOD ignite Bible study
+1515 S Andy
+1510 R walk
+1455 R drive
+1450 R shop
+1420 S volunteer
+1415 R drive
+1405 R walk
+1340 P hw ITSC 3688
+1335 P notes
+1325 R walk
+1320 E eat
+1305 R shower
+1255 R poop
+1235 P tm ITSC 3688
+1230 W stretch
+1220 P tm notes
+1215 S Andrew
+1210 S Camden
+1115 W workout
+1100 R walk
+1040 R drive
+1020 R ready
+1015 R cut
+0955 E eat
+0920 GOD qt
+0905 R ready
+0840 R poop
+0835 R ready
+
+3/26/25 W 0700-2355
+2340 LO lo
+2330 S comm
+2320 P notes
+2305 R ready
+2300 R shower
+2245 P tm ITSC 3688
+2240 F think
+2235 S comm
+2230 R ready
+2215 S tm comm
+2200 P tm school
+2150 F dawdle
+2140 R ready
+2130 P tm school
+2110 P tm notes
+2105 R ready
+2100 E eat
+2045 S Comm
+2025 E eat
+2020 S Ramon
+2000 R drive
+1945 R walk
+1940 R br
+1935 S Yasine
+1910 S Lydie
+1900 R walk
+1855 S Dr. Xue
+1845 R walk
+1730 P ITSC 3156
+1725 R br
+1710 R walk
+1555 P STAT 3150
+1550 R walk
+1430 GOD ministry
+1425 R walk
+1405 R poop
+1355 E eat
+1330 P notes
+1325 R walk
+1220 P ITSC 3688
+1210 P hw ITSC 3688
+1205 R br
+1200 R walk
+1115 GOD ignite
+1105 R walk
+1100 R br
+1030 P hw ITSC 3688
+1010 P ITSC 3146
+1005 R br
+0955 P hw ITSC 3688
+0950 E eat
+0910 P ITSC 3146
+0900 R walk
+0835 R poop
+0830 F article
+0810 P notes
+0805 R br
+0755 R walk
+0750 E eat
+0745 R ready
+0740 R walk
+0725 R drive
+0720 P STAT 3688
+0715 P notes
+0700 R ready
+
+03/25/25 T 0755-0055
+0055 LO lo
+2300 S Jacob Kylie
+2245 R drive
+2040 S Jacob Kylie
+2030 R walk
+2020 R drive
+2000 S comm
+1955 R walk
+1940 S Ignite
+1935 R walk
+1930 F dawdle
+1920 R shower
+1900 P tm hw ITSC 3146
+1855 P notes
+1850 W workout
+1845 S Kitan co
+1835 R walk
+1815 F yt
+1800 R poop
+1750 P school
+1745 E eat
+1740 P notes
+1735 R br
+1730 S comm
+1725 F think
+1720 E eat
+1710 P notes
+1655 P school
+1650 S Ethan
+1600 P school
+1545 P notes
+1540 S CAIR
+1530 R walk
+1520 R shower
+1515 R walk
+1500 F dawdle
+1450 S comm
+1445 R walk
+1440 S gym bro
+1420 W workout
+1410 S Matthew
+1400 R walk
+1315 W workout
+1310 R walk
+1300 S Kim
+1240 S CAIR
+1225 R walk
+1210 R drive
+1145 R ready
+1140 S Dan
+1130 E eat
+1120 F dawdle
+1045 P business
+1035 P notes
+1030 F dawdle
+1025 F think
+1020 W stretch
+0945 GOD qt
+0940 F dawdle
+0930 P business
+0925 S comm
+0920 F dawdle
+0910 P business
+0855 E eat
+0830 P business
+0825 R ready
+0820 R shower
+0800 R poop
+0755 F dawdle
+
+03/24/25 M 0550-0010
+0010 LO lo
+0005 P notes
+0000 R ready
+2355 E eat
+2345 R drive
+2330 R walk
+2240 S CAIR
+2050 P hw ITSC 3146
+2045 P notes
+1930 P hw ITSC 3156 
+1900 S CAIR
+1850 R walk
+1725 P ITSC 3156
+1720 R walk
+1655 P hw ITSC 3156
+1650 R walk
+1600 P STAT 3150
+1550 R walk
+1545 P hw ITSC 3156
+1525 R poop
+1520 F yt
+1510 F create
+1505 S Naami
+1420 P hw STAT 3150
+1415 R walk
+1330 GOD ignite evangelism
+1325 R walk
+1320 S Dr. J
+1215 P ITSC 3688
+1205 F nap
+1155 R walk
+1150 R br
+1100 P hw ITSC 3688
+1010 P ITSC 3146
+1000 R walk
+0940 P hw STAT 3150
+0935 R walk
+0920 R drive
+0915 R ready
+0900 E eat
+0855 F dressup
+0850 R ready
+0840 R ready
+0835 F yt
+0820 R poop
+0815 R ready
+0645 P tm hw STAT 3150
+0640 P tm notes
+0630 P hw STAT 3150
+0620 GOD qt
+0610 R br
+0600 E eat
+0550 R ready
+
+11/18/24 M 0725-2330
+2325 LO lo
+2315 P hw STAT 3160
+2255 P hw ITSC 2181
+2250 R ready
+2240 R shower
+2205 P tm research
+2155 P tm hw ITSC 2181
+2145 R ready
+2140 F think
+1950 P hw STAT 3160
+1910 E eat
+1900 R drive
+1845 R walk
+1755 W workout
+1745 S Tanmai
+1735 R walk
+1720 P hw ITSC 3153
+1715 R walk
+1555 P ITSC 3153
+1550 R walk
+1540 F words
+1525 P notes
+1515 E eat
+1440 P school
+1420 S CAIR
+1415 P hw STAT 3160
+1410 S Youjun
+1350 E eat
+1340 R walk
+1330 S Jackson
+1225 GOD ignite
+1215 R walk
+1205 E eat
+1200 R walk
+1140 P hw STAT 3160
+1110 P hw STAT 3160
+1105 S comm
+1100 R walk
+1010 P STAT 3160
+1005 R walk
+0945 P hw STAT 3160
+0940 R walk
+0925 R drive
+0915 P notes
+0910 P notes
+0850 R ready
+0845 F CGPT
+0840 R ready
+0820 E eat
+0810 R shower
+0755 R poop
+0745 R ready
+0730 GOD qt
+0725 R ready
+
+
+11/17/24 Su 0725-2310
+2300 LO lo
+2255 R ready
+2240 P work
+2230 F yt
+2225 GOD ministry
+2220 S comm
+2215 F va
+2155 P notes
+2150 R drive
+2145 F think
+2140 S Stacey
+2130 R shop
+2125 R drive
+2120 P business
+2055 GOD ministry
+2035 P notes
+2025 R ready
+2005 R ready
+2000 P notes
+1950 S Dan Roy
+1945 R clean
+1930 S Dan Roy
+1840 E eat
+1800 R drive
+1745 S comm
+1740 R walk
+1720 F dawdle...
+1710 P notes
+1705 R walk
+1655 R shower
+1650 R poop
+1640 R walk
+1345 S Tyler
+1335 R walk
+1330 S comm
+1310 F yt
+1230 F nap
+1225 R walk
+1220 F think
+1215 R drive
+1210 E eat
+1200 R shop
+1130 R drive
+1020 P business
+1010 P hw ITSC 2181
+1005 P business
+0950 P notes
+0930 P business
+0910 E eat
+0845 P business
+0840 F dressup
+0830 R ready
+0825 F various
+0800 P business
+0750 R shower
+0740 R poop
+0730 P business
+0725 R br
+
+11/16/24 Sa 0715-2255
+2245 LO lo
+2230 R ready
+2205 F yt
+2140 P hw ITSC 2600
+2135 R ready
+2105 F music
+2055 E eat
+2045 P business
+1910 F yt
+1900 E eat
+1845 P hw ITSC 2600
+1840 F dawdle
+1835 S comm
+1830 P notes
+1820 E eat
+1800 S comm
+1745 F va
+1700 P hw ITSC 2600
+1635 E eat
+1525 P hw ITSC 2600
+1520 S comm
+1510 W stretch
+1500 S comm
+1455 F reddit
+1450 F va
+1445 F eat
+1430 P business
+1415 F think
+1330 P business
+1305 F reddit
+1255 F va
+1245 R ready
+1220 E eat
+1210 R drive
+1205 F shop
+1150 P business
+1120 R drive
+1115 F stand!!
+1100 R shop
+1055 R drive
+1045 F gw
+1035 R drive
+1030 S dudes
+0830 GOD ignite Bible study
+0800 R drive
+0750 R poop
+0735 P business
+0725 R ready
+0720 E eat
+0715 R br
+
+11/15/24 F 0735-2315
+2310 LO lo
+2245 F music
+2235 R ready
+2225 F dawdle
+2215 R shower
+2205 R poop
+2105 F music
+2050 P hw STAT 3160
+2045 F dance
+2035 S comm
+2030 F dawdle
+2025 E eat
+2020 P business
+2015 R walk
+1920 P hw ITSC 2181
+1905 E eat
+1815 P hw ITSC 2600
+1805 F music
+1745 E eat
+1730 F pb powder
+1725 S comm
+1720 E eat
+1715 R ready
+1705 E eat
+1650 P business
+1630 S Elec
+1610 E eat
+1550 R drive
+1540 E eat
+1530 R drive
+1515 R walk
+1440 W workout
+1435 W stretch
+1430 S comm
+1420 R walk
+1315 GOD ignite
+1245 R walk
+1240 F think
+1235 S Brae
+1215 R drive
+1210 F dawdle
+1155 E eat
+1140 R ready
+1045 P hw ITSC 2600
+1035 F music
+1020 F politics
+1015 P hw ITSC 2181
+1010 P notes
+1005 F va
+1000 P notes
+0950 R ready
+0935 GOD qt
+0930 GOD pray
+0925 F fix
+0920 R shower
+0905 F dawdle...
+0845 R clean
+0840 S Dan
+0820 E eat
+0800 R poop
+0755 F dressup
+0740 R laundry
+0735 F sit in bed
+
+11/14/24 Th 0805-2240
+2225 LO lo
+2220 F dawdle
+2210 P notes
+2200 R laundry
+2150 GOD ministry
+2140 F think
+2115 R ready
+2110 S comm
+2105 P notes
+2100 GOD pray
+2055 F dawdle
+2050 R ready
+2035 S Dan Debbie
+2030 R laundry
+2020 R shower
+1945 F dawdle
+1910 E eat
+1855 R drive
+1840 R walk
+1800 W workout
+1740 R poop
+1735 R walk
+1720 P research
+1705 P research
+1700 R walk
+1620 P ITSC 2600
+1600 R walk
+1540 R drive
+1520 R drive
+1500 R shop
+1355 GOD ministry
+1340 R drive
+1330 R ready
+1325 F photos
+1305 F nap
+1300 R ready
+1245 E eat
+1130 P hw ITSC 2181
+1125 S comm
+1110 P hw ITSC 2181
+1100 R shop
+1050 GOD qt
+1040 P hw ITSC 2181
+1035 P notes
+1030 R shower
+0950 F dawdle
+0945 P school
+0940 R ready
+0915 GOD qt
+0910 R ready
+0850 E eat
+0840 R shower
+0825 R poop
+0820 W stretch
+0810 R ready
+0805 F sit in bed
+
+11/13/24 W 0810-2215
+2210 LO lo
+2200 F dawdle
+2155 R ready
+2115 F music
+2110 P notes
+2100 R shower
+2050 R shop
+2040 F va
+2030 S comm
+2020 R ready
+1945 E eat
+1940 R ready
+1930 R drive
+1920 R walk
+1915 S Eric
+1900 P research
+1855 F think
+1800 P hw ITSC 2181
+1740 S CAIR
+1730 E eat
+1725 F decide…
+1720 R walk
+1600 P ITSC 3153
+1555 S Palooza
+1550 R walk
+1430 P ITSC 2181
+1420 S CAIR
+1330 P research
+1325 S CAIR
+1320 R br
+1305 E eat
+1300 F dawdle...
+1255 S Sam
+1250 R walk
+1245 S dudes
+1240 R walk
+1220 GOD ministry
+1210 E eat
+1205 R walk
+1110 P hw STAT 3160
+1100 R walk
+1005 P STAT 3160
+1000 R walk
+0920 GOD ignite
+0905 R walk
+0845 R drive
+0840 F dressup
+0830 R ready
+0815 E eat
+0810 R ready
+
+11/12/24 T 0745-2205
+2200 LO lo
+2150 F music
+2145 P notes
+2130 R ready
+2120 R shower
+2110 R poop
+2105 P notes
+2050 P hw ITSC 2181
+2045 P notes
+2035 R ready
+1945 E eat
+1930 R drive
+1920 R walk
+1900 S Riley
+1855 R walk
+1835 P hw ITSC 2181
+1830 P notes
+1825 F dawdle
+1745 P research
+1740 F dawdle
+1725 P research
+1720 P notes
+1715 S CAIR
+1700 E eat
+1655 R walk
+1600 P ITSC 2600
+1510 S Ahmed
+1505 R walk
+1450 R poop
+1440 P research 
+1430 R walk
+1425 F sit
+1420 R walk
+1415 GOD ministry
+1355 S Zecharai
+1345 R walk
+1340 E eat
+1335 R walk
+1320 P research
+1315 F reddit
+1305 P school
+1300 R walk
+1250 P school
+1125 P ITSC 2181
+1120 R walk
+1115 P notes
+1105 GOD journal
+1050 R walk
+1045 R drive
+1040 GOD ministry
+1035 R gas
+1020 R drive
+1005 R ready
+0955 E eat
+0945 P notes
+0935 F shop for Dr. Xue
+0915 GOD ministry
+0910 F think
+0845 R poop
+0840 R ready
+0815 GOD qt
+0755 E eat
+0745 R ready
+
+11/11/24 M 0750-0010
+0000 LO lo
+2345 R ready
+2335 R shower
+2325 F music
+2210 P hw ITSC 3153
+2145 F dawdle
+2110 P hw ITSC 3153
+2105 R ready
+2035 E cook
+2005 E eat
+1950 R drive
+1930 R walk
+1925 P notes
+1915 P hw ITSC 3153
+1910 P notes
+1845 P hw ITSC 3153
+1740 F CAIR
+1730 E eat
+1720 P research
+1635 S CAIR
+1625 E eat
+1620 S Riley
+1610 S Dr. Shin
+1600 R walk
+1550 F wait
+1540 R walk
+1535 S Sasha
+1455 W workout
+1450 R walk
+1445 F dawdle
+1440 S comm
+1255 P research
+1235 R walk
+1230 S Josh
+1155 GOD journal
+1135 F print think
+1125 R walk
+1110 S Miracle Drema
+1105 R ready
+1100 P notes
+1050 R walk
+1035 R drive
+1010 R ready
+1005 S dan
+0945 E eat
+0940 R ready
+0920 GOD qt
+0910 S comm
+0855 GOD journal
+0845 R ready
+0840 E eat
+0820 R ready
+0755 R poop
+0750 R ready
+
+11/10/24 Su 0755-2305
+2300 LO lo
+2235 P research
+2230 P notes
+2220 R ready
+2150 E eat
+2135 R drive
+2130 R walk
+2125 S Wyatt
+2115 GOD ministry
+2105 S alexander
+1820 GOD ignite
+1815 R walk
+1755 P research
+1750 F dawdle
+1745 S comm
+1730 F vista auction 
+1720 R walk
+1715 P hw ITSC 3153
+1710 E eat
+1700 R walk
+1645 R shower
+1635 R poop
+1610 W workout
+1600 P school
+1540 W workout
+1505 S tm Angelo
+1455 S agam
+1450 R walk
+1355 F nap
+1345 R walk 
+1340 F oasis
+1330 P notes
+1325 W stretch
+1300 R poop
+1255 R ready
+1245 R walk
+1230 R drive
+1220 P business
+1205 S Jacob
+1125 E eat
+1105 S Jacob
+1050 R drive
+1045 S Jacob Kylie
+1040 R walk
+0925 GOD church
+0910 R drive
+0905 F dressup
+0850 R ready
+0820 E eat
+0815 R cut
+0805 R ready
+0755 R poop
+
+11/09/24 Sa 0750-0015
+0005 LO lo
+0000 R ready
+2355 F think
+2335 R ready
+2310 F election
+2300 P school
+2240 F podcast
+2215 F music
+2200 F shop
+2115 R shop
+2110 R ready
+2045 E eat
+2030 R drive
+1950 S brae maria
+1925 GOD ministry
+1920 R drive
+1715 S Kody Gabby
+1700 R drive
+1650 E eat
+1640 R drive
+1635 R walk
+1605 W workout
+1545 P hw ITSC 3153
+1530 S comm
+1525 P notes
+1405 W workout
+1400 S Khristian Piper
+1350 R poop
+1345 W stretch
+1340 R walk
+1330 R drive
+1325 E cook
+1320 GOD ministry
+1310 GOD pray
+1300 R ready
+1255 R ready
+1235 E cook
+1225 R ready
+1215 E eat
+1130 E cook
+1115 W exercise
+1100 GOD ministry
+1055 S mom
+1035 GOD qt
+0945 GOD ministry
+0940 F think
+0930 R ready
+0925 GOD ministry
+0920 F deer
+0910 S deer 
+0900 R clean
+0850 GOD qt
+0830 E eat
+0810 R ready
+0750 R poop
+
+11/08/24 F 0805-2320
+2315 LO lo
+2310 S comm
+2305 R ready
+2300 F music
+2245 F shop
+2215 R shop
+2210 R clean
+2200 P notes
+2135 GOD journal
+2130 F think
+2115 R ready
+2100 F tm music
+2030 GOD ministry
+2025 R ready
+2020 F tm discord
+2010 S comm
+2000 R clean
+1950 S dan debbie
+1855 E eat
+1840 R drive
+1825 R walk
+1820 F dawdle
+1810 S Ritik
+1800 W exercise
+1650 W workout
+1645 W stretch
+1640 R walk
+1620 R br
+1600 R clean
+1550 P notes
+1545 E eat
+1540 R br
+1530 R walk
+1510 F nap
+1500 R walk
+1440 S dialogue
+1330 GOD ignite
+1310 R walk
+1250 E eat
+1110 S Josiah
+1100 R walk
+1010 P STAT 3160
+1005 P notes
+1000 R br
+0950 R walk
+0935 R drive
+0915 R ready
+0910 S comm
+0840 GOD qt
+0835 F dawdle
+0830 S Dan Debbie
+0805 E eat
+
+11/07/24 Th 0710-2340
+2330 LO lo
+2325 F logic
+2310 F ROLI
+2305 P notes
+2300 F dawdle
+2250 R ready
+2245 R shower
+2235 R laundry
+2155 W workout
+2150 R ready
+2140 S dan debbie
+2105 E eat
+2055 R drive
+2040 R walk
+2035 F dawdle
+1935 S CAIR
+1800 P research
+1750 E eat
+1745 R walk
+1730 P research
+1725 R walk
+1650 P research
+1600 P ITSC 2181
+1555 E eat
+1550 R walk
+1540 P research
+1530 E eat
+1505 P research
+1455 R walk
+1445 R shower
+1440 W exercise
+1435 F article
+1350 P tm research
+1350 W stretch
+1345 R walk
+1330 P research
+1315 F math
+1310 P notes
+1300 P hw ITSC 2181
+1255 R walk
+1130 P ITSC 2181
+1115 R walk
+1105 R drive
+1100 F dressup
+1050 R ready
+1040 R shower
+1030 R poop
+1025 P hw ITSC 2181
+1020 P notes
+1005 R clean
+1000 R laundry
+0940 R ready
+0935 F dawdle
+0920 E eat
+0910 R ready
+0900 R laundry
+0840 F election
+0835 P research
+0820 F nap
+0805 P research
+0800 E eat
+0750 R laundry
+0725 E eat
+0710 R poop
+
+11/06/24 W 0805-0000
+2355 LO lo
+2345 R ready
+2340 R laundry
+2335 R shower
+2320 R poop
+2315 P notes
+2245 P research
+2240 F dawdle
+2215 R ready
+2210 E eat
+2205 P notes
+2155 F words
+2150 P research
+2055 E eat
+2040 R drive
+2030 R walk
+2010 P research
+1945 S CAIR
+1930 P research
+1920 F online
+1915 E eat
+1905 R walk
+1815 W workout
+1810 R walk
+1755 P research
+1750 S comm
+1740 P hw ITSC 2181
+1730 P school
+1725 E eat
+1720 S Keton
+1715 R walk
+1600 P ITSC 3153
+1550 F nap
+1430 P ITSC 2181
+1425 R walk
+1340 P research
+1330 R walk
+1220 GOD ignite
+1215 R walk
+1210 S Sani Jacob
+1105 P hw STAT 3160
+1100 R walk
+1010 P STAT 3160
+1005 R walk
+0950 R drive
+0930 R poop
+0925 R ready
+0855 GOD qt
+0845 F trivia
+0840 R ready
+0835 S Roy
+0815 E eat
+0810 W stretch
+0805 R ready
+
+11/05/24 T 0815-0000
+2355 LO lo
+2350 P notes
+2340 R clean
+2330 R shower
+2325 R br
+2125 P tm hw ITSC 2181
+2115 R ready
+2040 E eat
+2025 R drive 
+2010 R walk
+1940 W workout
+1930 R walk
+1900 P research
+1815 S CAIR
+1800 P research
+1740 S CAIR
+1735 R walk
+1725 S Mark Strejc
+1710 P school
+1550 P ITSC 2600
+1530 R walk
+1525 R drive
+1515 R shop
+1450 S volunteer
+1445 R drive
+1430 R walk
+1425 S CAIR
+1325 P research
+1315 S Ethan
+1310 R walk
+1255 E eat
+1250 R walk
+1145 P ITSC 2181
+1130 R walk
+1125 R drive
+1115 S comm
+1045 F Platos
+1040 R drive
+1010 F goodwill
+1000 R drive
+0950 S DJ Wildcard
+0940 P business
+0925 R drive
+0910 R ready
+0850 E eat
+0845 R ready
+0835 R shower
+0815 R poop
+
+9/25/24 W 0835-0115
+0100 LO lo
+0050 P hw ITSC 2600
+0040 P notes
+0035 R ready
+0025 R shower
+2355 F music
+2345 P tm hw ITSC 2600
+2340 F dawdle...
+2335 R ready
+2240 P tm hw ITSC 2181
+2230 F dawdle...
+2120 P hw STAT 3160
+2110 P notes
+2105 F dance
+2040 R ready
+1940 E eat
+1930 R poop
+1915 R drive
+1900 R walk
+1725 P hw ITSC 3153 
+1720 R walk
+1550 P ITSC 3153
+1425 P ITSC 2181
+1415 R walk
+1405 S AK
+1350 P hw STAT 3160
+1340 S AK
+1325 E eat
+1240 P hw STAT 3160
+1230 S AK
+1135 S hang with Hershel AK
+1115 P hw STAT 3160
+1100 R walk
+1005 P STAT 3160
+1000 R walk
+0910 GOD ignite prayer
+0900 R walk
+0845 R walk
+0835 R ready
+
+9/24/24 T 0835-0045
+0030 LO lo
+0015 R clean
+0000 R shower
+2335 P tm hw ITSC 2181
+2330 R laundry
+2240 P tm hw ITSC 2181
+2230 P tm notes
+2225 R laundry
+2210 F dawdle...
+2205 R ready
+2200 R clean
+2150 R ready
+2145 P ITSC 2181
+2105 E eat
+2050 R drive
+2035 R walk
+2030 S brian
+2020 R walk
+1800 P research
+1735 S Brian
+1730 R walk
+1725 E eat
+1710 S comm
+1705 R walk
+1600 P ITSC 2600
+1550 R walk
+1545 R drive
+1540 R shop
+1510 S volunteer
+1500 R drive
+1450 R walk
+1445 S Igniters
+1440 R walk
+1430 R shower
+1320 W workout
+1305 R poop
+1300 R walk
+1255 S Anish
+1120 P ITSC 2181
+1110 R clean
+1055 R walk
+1040 R drive
+1015 R ready
+1010 R cut
+1005 R ready
+1000 R ready
+0950 F yt
+0900 E eat
+0855 R ready
+0835 R poop
+
+9/23/24 M 0730-0110
+0100 LO lo
+0055 R shop
+0040 P school
+0030 R shower
+0020 S call carter
+2225 S tm Carter call
+2215 R clean
+2145 S Carter
+2140 F dawdle
+2135 R ready
+2045 F yt
+1915 E eat
+1905 R drive
+1900 R walk
+1840 S Phone call Ramon
+1830 R walk
+1820 R walk
+1800 S comm
+1720 P hw ITSC 3153
+1550 P ITSC 3153
+1545 R walk
+1525 P research
+1520 F yt
+1500 E eat
+1455 R walk
+1450 R br
+1445 F find room..
+1430 P school
+1425 F find room..
+1415 R walk
+1410 R ready
+1405 W exercise
+1340 P tm hw ITSC 3153
+1330 F yt
+1220 W workout
+1210 S jackson
+1200 E eat
+1155 P hw STAT 3160
+1150 F dawdle planning
+1145 P tm notes
+1135 S comm
+1130 P business
+1120 R walk
+1105 P school
+1100 R walk
+1010 P STAT 3160
+1005 P business
+0945 P school
+0930 R walk
+0915 R walk
+0910 R ready
+0905 S Dan
+0845 E eat
+0840 R ready
+0815 GOD qt
+0800 R ready
+0740 R poop
+0735 F sit in bed..
+
+9/22/24 Su 0745-2345
+2340 LO lo
+2335 P notes
+2330 S comm
+2320 R ready
+2305 E eat
+2255 R drive
+2115 S caught up Jordane Cat
+2045 S talk
+1725 GOD ignite
+1715 R walk
+1700 R shower
+1650 R poop
+1620 W workout
+1615 W exercise
+1530 P hw ITSC 2181
+1525 P notes
+1520 R walk
+1445 F nap
+1430 P tm hw ITSC 3153
+1420 P tm hw ITSC 2181
+1415 S tm comm
+1345 P tm school
+1340 P tm notes
+1335 R ready
+1310 F nap
+1255 R walk
+1250 R ready
+1245 R walk
+1240 R ready
+1210 P research
+1040 E eat
+1035 R shop
+1030 R walk
+1025 W stretch
+1015 P hw STAT 3160
+1010 P notes
+0955 R walk
+0940 R drive
+0935 S comm
+0930 P notes
+0910 F dawdle
+0845 R ready
+0820 F piano
+0810 E eat
+0750 R poop
+0745 S comm
+
+9/21/24 Sa 0835-2340
+2335 LO lo
+2330 R ready
+2315 F yt
+2305 P hw STAT 3160
+2255 R clean
+2250 R shower
+2230 GOD journal
+2225 F staround…
+2125 F tm Aliexpress
+2120 R ready
+2110 F think
+2100 P notes
+2045 R ready
+2035 R ready
+2020 R drive
+2000 R walk
+1900 E eat
+1845 P hw STAT 3160
+1835 F sidetracked!
+1805 P hw STAT 3160
+1800 S Alex
+1740 F dawdle
+1725 P hw STAT 3160
+1720 S AK
+1710 R walk
+1650 F food searches reddit
+1635 P notes
+1625 S comm
+1615 R walk
+1610 R ready
+1605 E eat
+1555 R walk
+1550 R shower
+1530 R poop
+1500 F nap
+1440 GOD journal
+1430 P notes
+1315 W workout
+1255 P tm STAT 3160
+1225 R poop
+1215 S abheek
+1200 R walk
+1145 R drive
+1125 R poop
+1110 F yt
+1045 E eat
+1000 F yt
+0940 R clean
+0935 S Dan
+0930 GOD journal
+0915 E eat
+0910 GOD journal
+0845 E eat
+0840 R ready
+0835 F sit in bed
+
+9/20/24 F 0800-0035
+0025 LO lo
+0000 F reddit
+2345 F AliExpress
+2340 R ready
+2335 R shower
+2325 R poop
+2225 P hw ITSC 2181
+2220 F music
+2210 P notes
+2200 S comm
+2145 F article
+2135 F podcast
+2125 S comm
+2100 R ready
+2010 E eat
+1955 R drive
+1925 S alexander
+1900 R walk
+1835 P hw ITSC 2181
+1830 P tm notes
+1735 W workout
+1730 R walk
+1555 GOD ministry
+1540 S josiah
+1535 R walk
+1455 W workout
+1450 W stretch
+1435 R walk
+1320 GOD ignite Bible study
+1305 R poop
+1300 GOD pray
+1250 R walk
+1240 R drive
+1230 P notes
+1225 R drive
+1215 F GW
+1205 F drive to GW
+1155 R walk
+1140 P hw STAT 3160
+1110 S hershel
+1105 R walk
+1005 P STAT 3160
+0950 R walk
+0935 R drive
+0930 R ready
+0920 R poop
+0915 R ready
+0910 S stretch
+0900 R laundry
+0845 E eat
+0835 P school
+0810 GOD qt
+0805 R br
+0800 F sit in bed
+
+9/19/24 Th 0645-2345
+2340 LO lo
+2330 R laundry
+2315 P hw ITSC 2181
+2310 R ready
+2300 R laundry
+2250 R shower
+2225 E eat
+2210 R drive
+2200 R walk
+2100 S foosball
+2035 S Table Tennins
+2025 P hw ITSC 2181
+2020 P notes
+2010 P business
+2000 S talk
+1955 R walk
+1920 S tennis
+1915 R walk
+1855 P hw ITSC 2181
+1850 R walk
+1845 R br
+1835 E eat
+1830 R walk
+1755 P research
+1655 P research
+1600 P ITSC 2600
+1555 S comm
+1530 P research
+1520 R walk
+1510 E eat
+1505 R walk
+1455 R shower
+1405 P tm research 
+1350 R poop
+1330 P tm research
+1325 P tm notes
+1320 R br
+1315 W stretch
+1310 R walk
+1305 E eat
+1300 R walk
+1255 R br
+1130 P ITSC 2181
+1110 R walk
+1055 R drive
+1050 R ready
+1045 E eat
+0955 P tm research 
+0930 R poop
+0905 P research
+0845 E eat
+0825 F nap
+0820 P research
+0800 F nap
+0755 P research
+0750 F mentally distracted.!.
+0740 P research
+0735 P notes
+0725 R ready
+0705 GOD qt
+0700 F slow.?.ly
+0655 R ready
+0645 F sit in bed.!.
+
+9/18/24 W 0745-2355
+2355 LO lo
+2345 P notes
+2335 F dawdle...
+2325 R shower
+2310 R poop
+2305 F think
+2255 P notes
+2250 F think
+2245 S comm
+2205 P tm research
+2155 P tm notes
+2145 S comm
+2100 P tm research
+2055 F tm dawdle…!
+2050 P tm notes 
+2020 F dawdle...
+2015 E eat
+2010 P notes
+1945 F music
+1855 E eat
+1830 R drive
+1815 R walk
+1810 E eat
+1805 R walk
+1735 W workout
+1730 F dawdle in gym..!.!
+1725 R walk
+1550 P ITSC 3153
+1530 R br
+1425 P ITSC 2181
+1420 R br
+1415 R walk
+1345 S rama
+1335 R walk
+1215 GOD ignite prayer
+1210 R walk
+1140 P hw STAT 3160
+1125 P hw STAT 3160
+1110 S Jacob hershel
+1100 R walk
+0955 P STAT 3160
+0950 R walk
+0900 GOD ignite prayer
+0850 R walk
+0835 R walk
+0830 R ready
+0825 R clean
+0810 E eat
+0805 R ready
+0750 GOD qt
+0745 F sit in bed…
+
+9/17/24 T 0805-2355
+2350 LO lo
+2345 P research
+2340 S comm
+2335 P notes
+2325 R ready
+2320 R shower
+2315 F pull self together…
+2245 F nap
+2200 F dawdle
+2150 P research
+2135 F think
+2120 P tm research
+2100 F tm think…
+2055 P tm notes
+2045 R ready
+2040 S Dan
+2030 R clean
+1930 E eat
+1915 R drive
+1900 R walk
+1825 S yusif
+1820 R walk
+1815 W exercise
+1800 P tm research
+1750 P business
+1745 F bd presents for CJ walker
+1725 P tm research
+1710 P tm notes
+1705 R walk
+1610 P ITSC 2600
+1555 R walk
+1535 R walk
+1530 R shop
+1500 S volunteer
+1440 R walk
+1435 R walk
+1340 W workout
+1310 R poop
+1305 R walk
+1300 S comm
+1255 E eat
+1250 S latina org
+1245 R walk
+1120 P ITSC 2181
+1055 P hw ITSC 2181
+1045 R walk
+0925 P school
+0910 R walk
+0855 R drive
+0845 R ready
+0830 E eat
+0810 R poop
+0805 F sit in bed.!.
+
+9/16/24 M 0740-0025
+0015 LO lo
+2330 F music
+2255 P school
+2250 F notes
+2235 R ready
+2230 R shower
+2150 F nap
+2135 P school
+2120 F article
+2115 F dawdle...
+2105 R ready
+2040 E eat 
+2020 R drive
+1940 R walk
+1935 S catch gym bros
+1830 W workout
+1730 S comm
+1725 W stretch
+1720 S meet Darrel
+1715 R walk
+1555 P ITSC 2181
+1550 P school
+1545 S comm
+1540 R walk
+1510 R poop
+1500 R walk
+1410 S tareq
+1340 E eat
+1310 GOD ignite evangelism
+1305 R walk
+1300 E eat
+1155 P hw STAT 3160
+1150 P school
+1125 P hw STAT 3160
+1105 P research
+1050 R walk
+1025 R walk
+0820 P business
+0810 E eat
+0750 P work
+0745 P work
+
+9/15/24 Su 0755-2355
+2355 LO lo
+2350 R ready
+2345 F tired...
+2320 P research
+2300 F music
+2255 F notes
+2240 F dance
+2230 E eat
+2215 P work
+2145 R drive
+2110 S others
+1825 GOD ignite
+1815 S Talk to Kelly
+1745 R drive
+1730 P school
+1715 F notes
+1710 F dressup
+1705 R ready
+1700 E eat
+1655 R ready
+1635 P work
+1620 R shower
+1545 P work
+1530 F yt
+1515 P work
+1510 R ready
+1455 R poop
+1445 F dawdle
+1435 P work
+1420 F dance..
+1415 E eat
+1320 P work
+1245 P work
+1220 P work
+1200 P school
+1150 F notes
+1120 P hw ITSC 2181
+1115 F notes
+1030 E eat
+1025 F dawdle…
+1015 P hw ITSC 2181
+0950 E eat
+0840 F yt
+0835 F notes
+0825 E eat
+0815 GOD journal
+0800 P work
+0755 F nap
+
+9/14/24 Sa 0840-2335
+2325 LO lo
+2310 GOD journal
+2305 F words
+2250 R ready
+2245 R shower
+2225 R poop
+2200 F yt
+2145 F Game Theory Study…
+2045 F yt
+2015 F Game Theory Study…
+1950 E eat
+1945 P hw ITSC 2181
+1940 GOD journal
+1935 S comm
+1925 F notes
+1915 P hw ITSC 2181
+1910 S comm
+1825 P work
+1740 P hw ITSC 2181
+1730 F podcast
+1720 E eat
+1710 P hw ITSC 2181
+1700 F podcast
+1635 E eat
+1615 P work
+1610 R cut
+1555 F nap
+1540 P work
+1530 E eat
+1515 R poop
+1500 E eat
+1400 P work
+1340 E eat
+1320 S dad
+1235 P work
+1210 R drive
+1205 F get food
+1200 R walk
+1110 W workout
+1105 W stretch
+1100 R walk
+1040 F score leftovers
+1025 R drive
+1020 R clean
+1010 GOD qt
+1005 F dressup
+0930 R ready
+0910 E eat
+0905 R ready
+0840 R poop
+
+9/13/24 F 0845-0015
+0005 LO lo
+2355 F think
+2335 P notes
+2330 S comm
+2325 R ready
+2320 R shower
+2305 P tm hw ITSC 2181
+2300 F music
+2215 P tm hw ITSC 2181
+2205 GOD journal
+2150 F notes
+2145 S comm
+1945 F music
+1940 R ready
+1845 E eat
+1820 R drive
+1810 R walk
+1700 S Talk with Amariah
+1645 R walk
+1530 W workout
+1515 P school
+1510 R br
+1455 R walk
+1445 S Talked w Bible study dudes
+1310 GOD ignite Bible study
+1250 R walk
+1245 F dawdle walk
+1230 S Yoshi, Bya, Obed, Julian
+1215 R walk
+1210 F dawdle
+1155 R drive
+1145 P school
+1130 F music
+1125 S comm
+1120 F notes
+1105 R ready
+1055 E eat
+1045 S comm
+1040 F think
+1035 F survey
+1030 P school
+1020 R ready
+0955 E eat
+0945 S comm
+0915 GOD qt
+0910 R ready
+0905 P business
+0855 P business
+0845 F sit in bed
+
+9/12/24 Th 0800-2315
+2310 LO lo
+2300 GOD journal
+2250 R ready
+2245 R shower
+2105 P tm hw ITSC 2181
+2055 GOD journal
+1955 E eat
+1940 R drive
+1930 R walk
+1925 S met Mya
+1915 GOD ministry
+1905 F dawdle
+1845 R walk
+1835 F organize notes
+1820 P research
+1815 R walk
+1805 S comm
+1730 P research
+1655 P research
+1600 P ITSC 2600
+1555 P research
+1545 E eat
+1535 R walk
+1520 R poop
+1500 P research
+1455 F dawdle
+1450 E eat
+1440 R walk
+1410 S Dudes in EA comm
+1355 P school
+1325 P research
+1315 R walk
+1310 P research
+1305 E eat
+1250 R walk
+1130 P ITSC 2181
+1115 R walk
+1105 R drive
+1100 R ready
+1050 P research
+1040 R ready
+1035 GOD qt
+1025 R ready
+1020 F think
+0925 P research
+0915 F dawdle
+0855 R poop
+0845 E eat
+0805 GOD qt
+0800 F sit in bed...

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<style>text{font-family:system-ui,-apple-system,sans-serif;fill:#263238} .muted{fill:#667085;font-size:12px} .grid{stroke:#dfe4ea;stroke-width:1} .axis{stroke:#334155;stroke-width:1.2}</style>
+<rect width="100%" height="100%" fill="#fbfaf7"/><text x="48" y="36" font-size="21" font-weight="700">Sleep by waking-day weekday: stem and leaf</text>
+<text x="48" y="62" class="muted">Values are rounded to the nearest half-hour; each leaf is a half-hour unit (0 = :00, 1 = :30).</text>
+<text x="115" y="105" font-size="13" font-weight="700">weekday</text><text x="220" y="105" font-size="13" font-weight="700">stem | leaves</text>
+<text x="170" y="140" text-anchor="end" font-size="14" font-weight="700">M</text>
+<text x="220" y="140" font-family="monospace" font-size="14">5 | 0 1; 7 | 0 0; 8 | 0 0 1; 9 | 0 0</text>
+<text x="170" y="176" text-anchor="end" font-size="14" font-weight="700">T</text>
+<text x="220" y="176" font-family="monospace" font-size="14">4 | 0; 6 | 1; 7 | 1; 8 | 0 0 0 1; 9 | 0 1</text>
+<text x="170" y="212" text-anchor="end" font-size="14" font-weight="700">W</text>
+<text x="220" y="212" font-family="monospace" font-size="14">6 | 0 0; 8 | 0 0 0 1; 9 | 0 1; 10 | 0</text>
+<text x="170" y="248" text-anchor="end" font-size="14" font-weight="700">Th</text>
+<text x="220" y="248" font-family="monospace" font-size="14">6 | 1; 7 | 0 1 1 1; 8 | 0; 9 | 0 0; 10 | 0</text>
+<text x="170" y="284" text-anchor="end" font-size="14" font-weight="700">F</text>
+<text x="220" y="284" font-family="monospace" font-size="14">4 | 0; 6 | 0; 7 | 1; 8 | 0 1 1 1; 9 | 0 1</text>
+<text x="170" y="320" text-anchor="end" font-size="14" font-weight="700">Sa</text>
+<text x="220" y="320" font-family="monospace" font-size="14">7 | 0; 8 | 0 0 1 1 1 1 1; 9 | 0; 11 | 1</text>
+<text x="170" y="356" text-anchor="end" font-size="14" font-weight="700">Su</text>
+<text x="220" y="356" font-family="monospace" font-size="14">7 | 0 0 1; 8 | 0 0 0 0 1 1 1</text>
+<text x="48" y="405" class="muted">Stem is whole hours of sleep; leaves preserve the nearest 30-minute increment. The day is assigned to the following wake day.</text>
+</svg>

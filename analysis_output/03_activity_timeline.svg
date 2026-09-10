@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<style>text{font-family:system-ui,-apple-system,sans-serif;fill:#263238} .muted{fill:#667085;font-size:12px} .grid{stroke:#dfe4ea;stroke-width:1} .axis{stroke:#334155;stroke-width:1.2}</style>
+<rect width="100%" height="100%" fill="#fbfaf7"/><text x="48" y="36" font-size="21" font-weight="700">Total waking activity by seven-day recording</text>
+<text x="48" y="62" class="muted">Each bar is one seven-day period; its stacked segments are day 1 through day 7 total recorded hours, calculated from each day&apos;s waking-day recording.</text>
+<line x1="105" y1="520.0" x2="1035" y2="520.0" class="grid"/><text x="97" y="524.0" text-anchor="end" class="muted">0h</text>
+<line x1="105" y1="477.4" x2="1035" y2="477.4" class="grid"/><text x="97" y="481.4" text-anchor="end" class="muted">12h</text>
+<line x1="105" y1="434.7" x2="1035" y2="434.7" class="grid"/><text x="97" y="438.7" text-anchor="end" class="muted">24h</text>
+<line x1="105" y1="392.1" x2="1035" y2="392.1" class="grid"/><text x="97" y="396.1" text-anchor="end" class="muted">36h</text>
+<line x1="105" y1="349.4" x2="1035" y2="349.4" class="grid"/><text x="97" y="353.4" text-anchor="end" class="muted">48h</text>
+<line x1="105" y1="306.8" x2="1035" y2="306.8" class="grid"/><text x="97" y="310.8" text-anchor="end" class="muted">60h</text>
+<line x1="105" y1="264.1" x2="1035" y2="264.1" class="grid"/><text x="97" y="268.1" text-anchor="end" class="muted">72h</text>
+<line x1="105" y1="221.5" x2="1035" y2="221.5" class="grid"/><text x="97" y="225.5" text-anchor="end" class="muted">84h</text>
+<line x1="105" y1="178.8" x2="1035" y2="178.8" class="grid"/><text x="97" y="182.8" text-anchor="end" class="muted">96h</text>
+<line x1="105" y1="136.2" x2="1035" y2="136.2" class="grid"/><text x="97" y="140.2" text-anchor="end" class="muted">108h</text>
+<line x1="105" y1="93.6" x2="1035" y2="93.6" class="grid"/><text x="97" y="97.6" text-anchor="end" class="muted">120h</text>
+<line x1="105" y1="50.9" x2="1035" y2="50.9" class="grid"/><text x="97" y="54.9" text-anchor="end" class="muted">132h</text>
+<rect x="118.0" y="466.1" width="67.0" height="53.9" fill="#1b6ca8" stroke="#ffffff"><title>W01, day 1: 15.2 hours</title></rect>
+<rect x="118.0" y="411.6" width="67.0" height="54.5" fill="#4b0082" stroke="#ffffff"><title>W01, day 2: 15.3 hours</title></rect>
+<rect x="118.0" y="359.2" width="67.0" height="52.4" fill="#e07a2d" stroke="#ffffff"><title>W01, day 3: 14.8 hours</title></rect>
+<rect x="118.0" y="302.3" width="67.0" height="56.9" fill="#8e5aa7" stroke="#ffffff"><title>W01, day 4: 16.0 hours</title></rect>
+<rect x="118.0" y="243.7" width="67.0" height="58.6" fill="#2a9d8f" stroke="#ffffff"><title>W01, day 5: 16.5 hours</title></rect>
+<rect x="118.0" y="187.7" width="67.0" height="56.0" fill="#e9c46a" stroke="#ffffff"><title>W01, day 6: 15.8 hours</title></rect>
+<rect x="118.0" y="130.3" width="67.0" height="57.5" fill="#d1495b" stroke="#ffffff"><title>W01, day 7: 16.2 hours</title></rect>
+<text x="151.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W01</text>
+<text x="151.5" y="124.3" text-anchor="middle" font-size="11" font-weight="700">109.7h</text>
+<rect x="211.0" y="459.9" width="67.0" height="60.1" fill="#1b6ca8" stroke="#ffffff"><title>W02, day 1: 16.9 hours</title></rect>
+<rect x="211.0" y="401.5" width="67.0" height="58.3" fill="#4b0082" stroke="#ffffff"><title>W02, day 2: 16.4 hours</title></rect>
+<rect x="211.0" y="348.2" width="67.0" height="53.3" fill="#e07a2d" stroke="#ffffff"><title>W02, day 3: 15.0 hours</title></rect>
+<rect x="211.0" y="291.7" width="67.0" height="56.6" fill="#8e5aa7" stroke="#ffffff"><title>W02, day 4: 15.9 hours</title></rect>
+<rect x="211.0" y="229.8" width="67.0" height="61.9" fill="#2a9d8f" stroke="#ffffff"><title>W02, day 5: 17.4 hours</title></rect>
+<rect x="211.0" y="173.2" width="67.0" height="56.6" fill="#e9c46a" stroke="#ffffff"><title>W02, day 6: 15.9 hours</title></rect>
+<rect x="211.0" y="114.9" width="67.0" height="58.3" fill="#d1495b" stroke="#ffffff"><title>W02, day 7: 16.4 hours</title></rect>
+<text x="244.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W02</text>
+<text x="244.5" y="108.9" text-anchor="middle" font-size="11" font-weight="700">114.0h</text>
+<rect x="304.0" y="464.3" width="67.0" height="55.7" fill="#1b6ca8" stroke="#ffffff"><title>W03, day 1: 15.7 hours</title></rect>
+<rect x="304.0" y="408.1" width="67.0" height="56.3" fill="#4b0082" stroke="#ffffff"><title>W03, day 2: 15.8 hours</title></rect>
+<rect x="304.0" y="350.0" width="67.0" height="58.0" fill="#e07a2d" stroke="#ffffff"><title>W03, day 3: 16.3 hours</title></rect>
+<rect x="304.0" y="296.1" width="67.0" height="53.9" fill="#8e5aa7" stroke="#ffffff"><title>W03, day 4: 15.2 hours</title></rect>
+<rect x="304.0" y="238.4" width="67.0" height="57.7" fill="#2a9d8f" stroke="#ffffff"><title>W03, day 5: 16.2 hours</title></rect>
+<rect x="304.0" y="184.8" width="67.0" height="53.6" fill="#e9c46a" stroke="#ffffff"><title>W03, day 6: 15.1 hours</title></rect>
+<rect x="304.0" y="127.3" width="67.0" height="57.5" fill="#d1495b" stroke="#ffffff"><title>W03, day 7: 16.2 hours</title></rect>
+<text x="337.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W03</text>
+<text x="337.5" y="121.3" text-anchor="middle" font-size="11" font-weight="700">110.5h</text>
+<rect x="397.0" y="469.4" width="67.0" height="50.6" fill="#1b6ca8" stroke="#ffffff"><title>W04, day 1: 14.2 hours</title></rect>
+<rect x="397.0" y="419.6" width="67.0" height="49.8" fill="#4b0082" stroke="#ffffff"><title>W04, day 2: 14.0 hours</title></rect>
+<rect x="397.0" y="368.7" width="67.0" height="50.9" fill="#e07a2d" stroke="#ffffff"><title>W04, day 3: 14.3 hours</title></rect>
+<rect x="397.0" y="313.3" width="67.0" height="55.4" fill="#8e5aa7" stroke="#ffffff"><title>W04, day 4: 15.6 hours</title></rect>
+<rect x="397.0" y="258.2" width="67.0" height="55.1" fill="#2a9d8f" stroke="#ffffff"><title>W04, day 5: 15.5 hours</title></rect>
+<rect x="397.0" y="202.8" width="67.0" height="55.4" fill="#e9c46a" stroke="#ffffff"><title>W04, day 6: 15.6 hours</title></rect>
+<rect x="397.0" y="146.0" width="67.0" height="56.9" fill="#d1495b" stroke="#ffffff"><title>W04, day 7: 16.0 hours</title></rect>
+<text x="430.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W04</text>
+<text x="430.5" y="140.0" text-anchor="middle" font-size="11" font-weight="700">105.2h</text>
+<rect x="490.0" y="454.8" width="67.0" height="65.2" fill="#1b6ca8" stroke="#ffffff"><title>W05, day 1: 18.3 hours</title></rect>
+<rect x="490.0" y="394.4" width="67.0" height="60.4" fill="#4b0082" stroke="#ffffff"><title>W05, day 2: 17.0 hours</title></rect>
+<rect x="490.0" y="335.2" width="67.0" height="59.2" fill="#e07a2d" stroke="#ffffff"><title>W05, day 3: 16.7 hours</title></rect>
+<rect x="490.0" y="276.6" width="67.0" height="58.6" fill="#8e5aa7" stroke="#ffffff"><title>W05, day 4: 16.5 hours</title></rect>
+<rect x="490.0" y="208.5" width="67.0" height="68.1" fill="#2a9d8f" stroke="#ffffff"><title>W05, day 5: 19.2 hours</title></rect>
+<rect x="490.0" y="154.6" width="67.0" height="53.9" fill="#e9c46a" stroke="#ffffff"><title>W05, day 6: 15.2 hours</title></rect>
+<rect x="490.0" y="90.0" width="67.0" height="64.6" fill="#d1495b" stroke="#ffffff"><title>W05, day 7: 18.2 hours</title></rect>
+<text x="523.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W05</text>
+<text x="523.5" y="84.0" text-anchor="middle" font-size="11" font-weight="700">121.0h</text>
+<rect x="583.0" y="464.9" width="67.0" height="55.1" fill="#1b6ca8" stroke="#ffffff"><title>W06, day 1: 15.5 hours</title></rect>
+<rect x="583.0" y="405.4" width="67.0" height="59.5" fill="#4b0082" stroke="#ffffff"><title>W06, day 2: 16.8 hours</title></rect>
+<rect x="583.0" y="348.2" width="67.0" height="57.2" fill="#e07a2d" stroke="#ffffff"><title>W06, day 3: 16.1 hours</title></rect>
+<rect x="583.0" y="289.3" width="67.0" height="58.9" fill="#8e5aa7" stroke="#ffffff"><title>W06, day 4: 16.6 hours</title></rect>
+<rect x="583.0" y="234.2" width="67.0" height="55.1" fill="#2a9d8f" stroke="#ffffff"><title>W06, day 5: 15.5 hours</title></rect>
+<rect x="583.0" y="173.5" width="67.0" height="60.7" fill="#e9c46a" stroke="#ffffff"><title>W06, day 6: 17.1 hours</title></rect>
+<rect x="583.0" y="114.9" width="67.0" height="58.6" fill="#d1495b" stroke="#ffffff"><title>W06, day 7: 16.5 hours</title></rect>
+<text x="616.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W06</text>
+<text x="616.5" y="108.9" text-anchor="middle" font-size="11" font-weight="700">114.0h</text>
+<rect x="676.0" y="465.5" width="67.0" height="54.5" fill="#1b6ca8" stroke="#ffffff"><title>W07, day 1: 15.3 hours</title></rect>
+<rect x="676.0" y="410.4" width="67.0" height="55.1" fill="#4b0082" stroke="#ffffff"><title>W07, day 2: 15.5 hours</title></rect>
+<rect x="676.0" y="350.0" width="67.0" height="60.4" fill="#e07a2d" stroke="#ffffff"><title>W07, day 3: 17.0 hours</title></rect>
+<rect x="676.0" y="294.9" width="67.0" height="55.1" fill="#8e5aa7" stroke="#ffffff"><title>W07, day 4: 15.5 hours</title></rect>
+<rect x="676.0" y="239.8" width="67.0" height="55.1" fill="#2a9d8f" stroke="#ffffff"><title>W07, day 5: 15.5 hours</title></rect>
+<rect x="676.0" y="183.6" width="67.0" height="56.3" fill="#e9c46a" stroke="#ffffff"><title>W07, day 6: 15.8 hours</title></rect>
+<rect x="676.0" y="127.3" width="67.0" height="56.3" fill="#d1495b" stroke="#ffffff"><title>W07, day 7: 15.8 hours</title></rect>
+<text x="709.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W07</text>
+<text x="709.5" y="121.3" text-anchor="middle" font-size="11" font-weight="700">110.5h</text>
+<rect x="769.0" y="462.3" width="67.0" height="57.7" fill="#1b6ca8" stroke="#ffffff"><title>W08, day 1: 16.2 hours</title></rect>
+<rect x="769.0" y="408.7" width="67.0" height="53.6" fill="#4b0082" stroke="#ffffff"><title>W08, day 2: 15.1 hours</title></rect>
+<rect x="769.0" y="346.8" width="67.0" height="61.9" fill="#e07a2d" stroke="#ffffff"><title>W08, day 3: 17.4 hours</title></rect>
+<rect x="769.0" y="285.2" width="67.0" height="61.6" fill="#8e5aa7" stroke="#ffffff"><title>W08, day 4: 17.3 hours</title></rect>
+<rect x="769.0" y="229.2" width="67.0" height="56.0" fill="#2a9d8f" stroke="#ffffff"><title>W08, day 5: 15.8 hours</title></rect>
+<rect x="769.0" y="171.7" width="67.0" height="57.5" fill="#e9c46a" stroke="#ffffff"><title>W08, day 6: 16.2 hours</title></rect>
+<rect x="769.0" y="114.9" width="67.0" height="56.9" fill="#d1495b" stroke="#ffffff"><title>W08, day 7: 16.0 hours</title></rect>
+<text x="802.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W08</text>
+<text x="802.5" y="108.9" text-anchor="middle" font-size="11" font-weight="700">114.0h</text>
+<rect x="862.0" y="466.4" width="67.0" height="53.6" fill="#1b6ca8" stroke="#ffffff"><title>W09, day 1: 15.1 hours</title></rect>
+<rect x="862.0" y="412.2" width="67.0" height="54.2" fill="#4b0082" stroke="#ffffff"><title>W09, day 2: 15.2 hours</title></rect>
+<rect x="862.0" y="347.6" width="67.0" height="64.6" fill="#e07a2d" stroke="#ffffff"><title>W09, day 3: 18.2 hours</title></rect>
+<rect x="862.0" y="289.3" width="67.0" height="58.3" fill="#8e5aa7" stroke="#ffffff"><title>W09, day 4: 16.4 hours</title></rect>
+<rect x="862.0" y="233.3" width="67.0" height="56.0" fill="#2a9d8f" stroke="#ffffff"><title>W09, day 5: 15.8 hours</title></rect>
+<rect x="862.0" y="169.7" width="67.0" height="63.7" fill="#e9c46a" stroke="#ffffff"><title>W09, day 6: 17.9 hours</title></rect>
+<rect x="862.0" y="120.5" width="67.0" height="49.2" fill="#d1495b" stroke="#ffffff"><title>W09, day 7: 13.8 hours</title></rect>
+<text x="895.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W09</text>
+<text x="895.5" y="114.5" text-anchor="middle" font-size="11" font-weight="700">112.4h</text>
+<rect x="955.0" y="459.0" width="67.0" height="61.0" fill="#1b6ca8" stroke="#ffffff"><title>W10, day 1: 17.2 hours</title></rect>
+<rect x="955.0" y="397.4" width="67.0" height="61.6" fill="#4b0082" stroke="#ffffff"><title>W10, day 2: 17.3 hours</title></rect>
+<rect x="955.0" y="342.9" width="67.0" height="54.5" fill="#e07a2d" stroke="#ffffff"><title>W10, day 3: 15.3 hours</title></rect>
+<rect x="955.0" y="286.0" width="67.0" height="56.9" fill="#8e5aa7" stroke="#ffffff"><title>W10, day 4: 16.0 hours</title></rect>
+<rect x="955.0" y="231.3" width="67.0" height="54.8" fill="#2a9d8f" stroke="#ffffff"><title>W10, day 5: 15.4 hours</title></rect>
+<rect x="955.0" y="167.9" width="67.0" height="63.4" fill="#e9c46a" stroke="#ffffff"><title>W10, day 6: 17.8 hours</title></rect>
+<rect x="955.0" y="103.6" width="67.0" height="64.3" fill="#d1495b" stroke="#ffffff"><title>W10, day 7: 18.1 hours</title></rect>
+<text x="988.5" y="542" text-anchor="middle" font-size="12" font-weight="700">W10</text>
+<text x="988.5" y="97.6" text-anchor="middle" font-size="11" font-weight="700">117.2h</text>
+<rect x="115" y="38" width="10" height="10" fill="#1b6ca8"/><text x="131" y="47" class="muted">day 1</text>
+<rect x="245" y="38" width="10" height="10" fill="#4b0082"/><text x="261" y="47" class="muted">day 2</text>
+<rect x="375" y="38" width="10" height="10" fill="#e07a2d"/><text x="391" y="47" class="muted">day 3</text>
+<rect x="505" y="38" width="10" height="10" fill="#8e5aa7"/><text x="521" y="47" class="muted">day 4</text>
+<rect x="635" y="38" width="10" height="10" fill="#2a9d8f"/><text x="651" y="47" class="muted">day 5</text>
+<rect x="765" y="38" width="10" height="10" fill="#e9c46a"/><text x="781" y="47" class="muted">day 6</text>
+<rect x="895" y="38" width="10" height="10" fill="#d1495b"/><text x="911" y="47" class="muted">day 7</text>
+<line x1="105" y1="520" x2="1035" y2="520" class="axis"/><line x1="105" y1="90" x2="105" y2="520" class="axis"/>
+<text x="600" y="590" text-anchor="middle" class="muted">Ten bars, one for each complete seven-day period; segment colors identify the day position within the period.</text>
+</svg>

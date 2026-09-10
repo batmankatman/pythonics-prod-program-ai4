@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<style>text{font-family:system-ui,-apple-system,sans-serif;fill:#263238} .muted{fill:#667085;font-size:12px} .grid{stroke:#dfe4ea;stroke-width:1} .axis{stroke:#334155;stroke-width:1.2}</style>
+<rect width="100%" height="100%" fill="#fbfaf7"/><text x="48" y="36" font-size="21" font-weight="700">Normal Q-Q plot of daily R totals (70 days)</text>
+<line x1="90.0" y1="470.0" x2="700.0" y2="70.0" stroke="#d1495b" stroke-width="2" stroke-dasharray="6 5"/>
+<circle cx="90.0" cy="434.0" r="3.5" fill="#4b0082"/>
+<circle cx="142.9" cy="417.9" r="3.5" fill="#4b0082"/>
+<circle cx="170.6" cy="417.9" r="3.5" fill="#4b0082"/>
+<circle cx="190.2" cy="385.7" r="3.5" fill="#4b0082"/>
+<circle cx="205.8" cy="385.7" r="3.5" fill="#4b0082"/>
+<circle cx="218.9" cy="377.7" r="3.5" fill="#4b0082"/>
+<circle cx="230.3" cy="377.7" r="3.5" fill="#4b0082"/>
+<circle cx="240.4" cy="377.7" r="3.5" fill="#4b0082"/>
+<circle cx="249.6" cy="369.6" r="3.5" fill="#4b0082"/>
+<circle cx="258.1" cy="361.6" r="3.5" fill="#4b0082"/>
+<circle cx="266.0" cy="361.6" r="3.5" fill="#4b0082"/>
+<circle cx="273.4" cy="361.6" r="3.5" fill="#4b0082"/>
+<circle cx="280.4" cy="361.6" r="3.5" fill="#4b0082"/>
+<circle cx="287.0" cy="353.5" r="3.5" fill="#4b0082"/>
+<circle cx="293.4" cy="345.5" r="3.5" fill="#4b0082"/>
+<circle cx="299.5" cy="337.4" r="3.5" fill="#4b0082"/>
+<circle cx="305.3" cy="337.4" r="3.5" fill="#4b0082"/>
+<circle cx="311.0" cy="337.4" r="3.5" fill="#4b0082"/>
+<circle cx="316.5" cy="329.4" r="3.5" fill="#4b0082"/>
+<circle cx="321.9" cy="329.4" r="3.5" fill="#4b0082"/>
+<circle cx="327.1" cy="321.3" r="3.5" fill="#4b0082"/>
+<circle cx="332.3" cy="321.3" r="3.5" fill="#4b0082"/>
+<circle cx="337.3" cy="321.3" r="3.5" fill="#4b0082"/>
+<circle cx="342.2" cy="313.2" r="3.5" fill="#4b0082"/>
+<circle cx="347.0" cy="313.2" r="3.5" fill="#4b0082"/>
+<circle cx="351.8" cy="313.2" r="3.5" fill="#4b0082"/>
+<circle cx="356.5" cy="313.2" r="3.5" fill="#4b0082"/>
+<circle cx="361.2" cy="305.2" r="3.5" fill="#4b0082"/>
+<circle cx="365.8" cy="297.1" r="3.5" fill="#4b0082"/>
+<circle cx="370.3" cy="297.1" r="3.5" fill="#4b0082"/>
+<circle cx="374.9" cy="289.1" r="3.5" fill="#4b0082"/>
+<circle cx="379.4" cy="289.1" r="3.5" fill="#4b0082"/>
+<circle cx="383.8" cy="281.0" r="3.5" fill="#4b0082"/>
+<circle cx="388.3" cy="264.9" r="3.5" fill="#4b0082"/>
+<circle cx="392.8" cy="264.9" r="3.5" fill="#4b0082"/>
+<circle cx="397.2" cy="256.9" r="3.5" fill="#4b0082"/>
+<circle cx="401.7" cy="248.8" r="3.5" fill="#4b0082"/>
+<circle cx="406.2" cy="248.8" r="3.5" fill="#4b0082"/>
+<circle cx="410.6" cy="248.8" r="3.5" fill="#4b0082"/>
+<circle cx="415.1" cy="248.8" r="3.5" fill="#4b0082"/>
+<circle cx="419.7" cy="240.8" r="3.5" fill="#4b0082"/>
+<circle cx="424.2" cy="240.8" r="3.5" fill="#4b0082"/>
+<circle cx="428.8" cy="240.8" r="3.5" fill="#4b0082"/>
+<circle cx="433.5" cy="232.7" r="3.5" fill="#4b0082"/>
+<circle cx="438.2" cy="232.7" r="3.5" fill="#4b0082"/>
+<circle cx="443.0" cy="232.7" r="3.5" fill="#4b0082"/>
+<circle cx="447.8" cy="232.7" r="3.5" fill="#4b0082"/>
+<circle cx="452.7" cy="224.7" r="3.5" fill="#4b0082"/>
+<circle cx="457.7" cy="224.7" r="3.5" fill="#4b0082"/>
+<circle cx="462.9" cy="216.6" r="3.5" fill="#4b0082"/>
+<circle cx="468.1" cy="216.6" r="3.5" fill="#4b0082"/>
+<circle cx="473.5" cy="216.6" r="3.5" fill="#4b0082"/>
+<circle cx="479.0" cy="208.6" r="3.5" fill="#4b0082"/>
+<circle cx="484.7" cy="208.6" r="3.5" fill="#4b0082"/>
+<circle cx="490.5" cy="208.6" r="3.5" fill="#4b0082"/>
+<circle cx="496.6" cy="200.5" r="3.5" fill="#4b0082"/>
+<circle cx="503.0" cy="200.5" r="3.5" fill="#4b0082"/>
+<circle cx="509.6" cy="200.5" r="3.5" fill="#4b0082"/>
+<circle cx="516.6" cy="192.5" r="3.5" fill="#4b0082"/>
+<circle cx="524.0" cy="192.5" r="3.5" fill="#4b0082"/>
+<circle cx="531.9" cy="168.3" r="3.5" fill="#4b0082"/>
+<circle cx="540.4" cy="168.3" r="3.5" fill="#4b0082"/>
+<circle cx="549.6" cy="160.3" r="3.5" fill="#4b0082"/>
+<circle cx="559.7" cy="160.3" r="3.5" fill="#4b0082"/>
+<circle cx="571.1" cy="152.2" r="3.5" fill="#4b0082"/>
+<circle cx="584.2" cy="144.2" r="3.5" fill="#4b0082"/>
+<circle cx="599.8" cy="136.1" r="3.5" fill="#4b0082"/>
+<circle cx="619.4" cy="128.1" r="3.5" fill="#4b0082"/>
+<circle cx="647.1" cy="120.0" r="3.5" fill="#4b0082"/>
+<circle cx="700.0" cy="79.7" r="3.5" fill="#4b0082"/>
+<text x="90.0" y="492" text-anchor="middle" class="muted">88</text><text x="82" y="474.0" text-anchor="end" class="muted">88</text>
+<text x="700.0" y="492" text-anchor="middle" class="muted">336</text><text x="82" y="74.0" text-anchor="end" class="muted">336</text>
+<line x1="90" y1="470" x2="700" y2="470" class="axis"/><line x1="90" y1="70" x2="90" y2="470" class="axis"/>
+<text x="395" y="535" text-anchor="middle" class="muted">Expected normal quantiles, fitted to the 70 daily totals</text><text x="20" y="280" transform="rotate(-90 20 280)" text-anchor="middle" class="muted">Observed sorted daily minutes</text>
+</svg>
